@@ -1,0 +1,3001 @@
+Tenure,MonthlyCharges,Contract,TechSupport,Churn
+52,85.74,One year,No internet service,0
+15,67.23,Month-to-month,No,0
+61,108.02,Month-to-month,No,0
+21,41.57,Two year,Yes,0
+24,87.78,One year,No,1
+3,80.78,One year,No,0
+22,49.53,One year,No,0
+53,33.66,One year,No,0
+2,85.16,Two year,Yes,1
+30,93.86,Month-to-month,Yes,1
+38,51.56,One year,No internet service,0
+2,84.48,Two year,No internet service,0
+64,59.51,Month-to-month,Yes,0
+60,91.32,One year,No,0
+21,39.92,Month-to-month,Yes,1
+33,109.02,Two year,Yes,0
+58,48.74,Month-to-month,No,1
+22,56.78,One year,Yes,0
+49,25.81,Month-to-month,No,0
+59,31.15,One year,No,0
+42,71.59,Month-to-month,Yes,0
+60,46.76,Month-to-month,Yes,0
+15,103.55,Month-to-month,No internet service,0
+62,21.47,Two year,Yes,0
+62,57.91,Month-to-month,No,1
+47,53.73,Month-to-month,No,0
+62,21.93,One year,No,0
+51,32.44,One year,No,0
+55,61.36,Two year,Yes,0
+64,69.29,Month-to-month,Yes,0
+3,60.43,One year,Yes,0
+51,73.09,Month-to-month,No,1
+7,79.51,Month-to-month,No,1
+21,20.99,One year,Yes,0
+39,66.41,One year,Yes,0
+18,116.35,One year,No,0
+4,71.9,Month-to-month,No,1
+60,87.75,Month-to-month,No internet service,0
+14,51.19,Month-to-month,No,0
+9,97.4,Two year,No,0
+53,97.29,Month-to-month,No,1
+2,72.13,Month-to-month,No internet service,1
+60,117.6,Month-to-month,No internet service,0
+71,32.56,One year,No,0
+44,21.69,Month-to-month,Yes,0
+8,97.02,Two year,Yes,0
+47,100.72,Month-to-month,No,1
+35,32.02,Two year,No,1
+36,46.56,Month-to-month,No,0
+50,21.76,One year,Yes,0
+4,49.33,Two year,No,1
+2,97.31,Month-to-month,No internet service,0
+6,71.8,Two year,Yes,0
+54,54.81,Month-to-month,No,0
+4,57.17,Two year,No,0
+54,20.14,One year,No internet service,0
+63,49.98,Month-to-month,No internet service,0
+18,84.65,Month-to-month,No,1
+44,117.42,Month-to-month,No,1
+34,104.71,Month-to-month,No internet service,0
+62,22.36,Month-to-month,No,1
+14,109.86,Month-to-month,No,1
+48,98.32,Month-to-month,No,0
+15,98.04,One year,Yes,0
+62,65.8,Month-to-month,No,1
+40,59.8,Month-to-month,No internet service,0
+53,50.29,One year,No,0
+24,26.57,Month-to-month,No,1
+26,42.82,Month-to-month,Yes,1
+60,44.66,Month-to-month,No,1
+41,68.41,Two year,Yes,0
+29,94.74,Two year,Yes,0
+15,67.38,Month-to-month,No,1
+45,25.78,One year,Yes,0
+65,115.78,One year,No,0
+71,114.27,One year,No,0
+9,98.52,One year,No internet service,1
+1,119.13,One year,No,0
+8,74.45,Month-to-month,Yes,1
+63,116.28,Month-to-month,Yes,1
+11,27.56,Month-to-month,No,1
+8,56.57,Two year,No,0
+35,42.54,One year,No,0
+35,39.58,Two year,No,0
+33,34.08,Two year,Yes,0
+5,82.24,Month-to-month,No,1
+41,98.13,One year,No,0
+28,77.83,One year,Yes,0
+7,34.7,Two year,Yes,0
+12,101.11,Two year,Yes,0
+34,83.6,One year,Yes,0
+33,58.82,Month-to-month,No,1
+48,87.41,One year,Yes,0
+23,45.99,Month-to-month,Yes,1
+62,54.52,One year,Yes,0
+37,111.75,Two year,No internet service,0
+44,49.05,Month-to-month,No internet service,0
+35,67.0,One year,Yes,0
+65,109.01,Month-to-month,No,0
+47,90.77,Month-to-month,Yes,1
+3,26.22,Month-to-month,No,1
+1,34.73,One year,Yes,0
+5,20.78,Two year,No,0
+14,83.09,Two year,No,0
+27,64.77,Month-to-month,No internet service,0
+9,33.43,Two year,Yes,0
+15,115.79,One year,No internet service,0
+42,72.97,Month-to-month,No,1
+51,44.19,Month-to-month,Yes,0
+63,70.06,Month-to-month,No,1
+52,87.96,Two year,Yes,0
+4,27.62,One year,Yes,0
+23,47.47,One year,Yes,0
+15,100.7,Month-to-month,No,1
+43,65.97,One year,No,0
+29,74.66,Month-to-month,No internet service,1
+36,63.28,Month-to-month,Yes,0
+13,24.39,One year,No internet service,0
+32,36.57,Month-to-month,Yes,0
+71,64.55,Two year,No,1
+59,40.92,Month-to-month,No,0
+28,25.0,One year,Yes,0
+66,104.36,Month-to-month,No internet service,1
+42,118.12,One year,No,1
+45,99.31,Month-to-month,No,0
+62,105.38,Month-to-month,No,1
+57,44.2,Two year,No,1
+6,116.06,Month-to-month,No,1
+28,39.69,Two year,No,0
+28,115.14,Two year,Yes,0
+44,119.48,Month-to-month,No,1
+30,91.17,Month-to-month,No internet service,1
+62,118.11,One year,Yes,0
+62,76.95,Two year,Yes,0
+1,45.95,Two year,No,0
+27,63.7,One year,No,0
+62,79.36,One year,No,1
+3,27.31,Month-to-month,Yes,1
+70,82.23,Two year,No,0
+27,118.12,Two year,Yes,0
+9,39.01,Month-to-month,No,1
+62,99.26,Month-to-month,No,1
+37,110.79,Month-to-month,Yes,0
+51,114.37,Month-to-month,No,1
+44,116.01,Two year,No internet service,1
+24,72.15,Month-to-month,No,0
+59,117.73,Month-to-month,No internet service,0
+32,95.73,Month-to-month,No,0
+52,36.17,Two year,No,0
+62,67.69,One year,Yes,0
+58,91.83,Month-to-month,Yes,0
+52,44.73,Month-to-month,Yes,1
+12,84.06,Two year,No,1
+39,86.66,Two year,No internet service,0
+2,36.27,Month-to-month,No,1
+3,76.51,Month-to-month,No,1
+56,97.16,Month-to-month,No,1
+59,69.89,Month-to-month,No,1
+2,21.21,One year,No,0
+2,20.9,Two year,No,1
+54,55.7,Month-to-month,No,1
+1,112.62,Two year,Yes,1
+19,42.87,Month-to-month,No internet service,1
+2,83.44,One year,Yes,0
+53,42.21,One year,Yes,0
+44,52.17,Month-to-month,No internet service,1
+32,104.8,Month-to-month,No,1
+70,92.89,One year,No,0
+32,29.54,Month-to-month,No,0
+68,62.87,Month-to-month,No,1
+55,22.92,One year,Yes,0
+56,68.09,Two year,No,0
+17,86.24,Month-to-month,No,0
+38,31.85,Two year,No,0
+24,48.89,Month-to-month,No,0
+69,59.78,One year,No internet service,0
+70,111.95,One year,Yes,0
+11,119.33,Two year,No,1
+16,24.49,Month-to-month,No,0
+59,96.1,One year,No internet service,0
+70,57.17,One year,Yes,0
+3,59.25,Month-to-month,No,1
+20,95.43,Month-to-month,No internet service,1
+59,111.84,Month-to-month,Yes,1
+36,115.09,Month-to-month,No internet service,1
+19,77.71,Two year,Yes,0
+67,55.71,Month-to-month,No,1
+19,98.75,Month-to-month,No internet service,1
+20,45.1,One year,No,1
+71,76.41,Month-to-month,No,1
+52,55.86,One year,Yes,0
+33,85.66,Month-to-month,No internet service,0
+40,44.04,Two year,No,1
+39,39.16,Two year,Yes,0
+1,111.82,Two year,No,0
+11,30.18,Month-to-month,No,1
+57,70.6,One year,Yes,0
+50,42.09,Month-to-month,Yes,0
+23,23.89,Month-to-month,Yes,0
+31,23.6,Month-to-month,No,0
+42,37.52,One year,No,0
+7,106.68,Month-to-month,No,1
+16,48.25,One year,No internet service,0
+60,115.05,Month-to-month,No internet service,1
+2,78.16,Month-to-month,No,0
+1,63.66,One year,Yes,1
+48,78.01,Month-to-month,No,1
+12,71.67,One year,No,0
+69,95.88,Month-to-month,No,1
+37,48.25,Two year,No,0
+32,55.31,One year,No,0
+9,109.41,Month-to-month,No internet service,0
+19,114.65,Month-to-month,Yes,0
+48,109.26,One year,No,0
+3,61.94,Two year,Yes,0
+20,98.04,Month-to-month,No internet service,1
+24,67.63,Month-to-month,Yes,1
+54,69.75,Two year,Yes,0
+33,40.47,One year,No,0
+24,79.11,Month-to-month,No,0
+36,38.61,Month-to-month,Yes,1
+38,53.16,Month-to-month,No,1
+25,105.5,One year,No,0
+18,40.71,Month-to-month,Yes,0
+66,27.12,Two year,No,0
+54,26.9,Month-to-month,No internet service,1
+35,114.08,Month-to-month,No,1
+61,70.69,One year,No,0
+41,60.94,Two year,No,0
+33,101.09,Two year,No,0
+68,103.58,Month-to-month,Yes,0
+33,53.22,One year,Yes,0
+14,89.36,One year,No internet service,0
+21,97.11,Month-to-month,No internet service,0
+48,85.47,Month-to-month,No,1
+20,35.16,Month-to-month,Yes,0
+8,107.59,Month-to-month,Yes,1
+7,73.91,Two year,No,0
+67,48.25,Month-to-month,No,0
+17,62.52,Two year,Yes,0
+33,23.76,One year,No internet service,0
+48,32.79,One year,No,0
+59,96.55,One year,No internet service,1
+22,20.0,Month-to-month,No,0
+30,61.66,Month-to-month,No,1
+38,72.25,Month-to-month,No,0
+51,25.46,One year,No,0
+54,117.31,Month-to-month,No,0
+8,42.61,One year,No,0
+27,50.42,Month-to-month,No,1
+27,50.39,Month-to-month,No internet service,0
+21,43.04,Month-to-month,No,0
+30,20.15,Two year,No,0
+28,92.93,One year,No internet service,0
+64,116.68,Month-to-month,Yes,1
+69,42.43,One year,Yes,0
+61,86.3,Month-to-month,No,0
+48,94.19,Two year,No,1
+19,104.84,One year,No internet service,1
+4,62.26,Month-to-month,No,1
+35,50.29,One year,No,1
+64,52.53,Month-to-month,No,0
+49,91.26,Two year,Yes,0
+17,101.68,Month-to-month,No,1
+44,38.16,One year,No internet service,0
+30,57.09,Month-to-month,Yes,0
+46,110.19,One year,No,1
+6,100.67,One year,No,1
+37,118.49,One year,Yes,0
+24,95.42,One year,Yes,0
+46,59.32,Two year,No internet service,0
+53,79.06,Month-to-month,No,0
+60,86.1,Month-to-month,Yes,1
+63,27.85,Month-to-month,Yes,0
+32,74.45,Two year,No,0
+33,90.93,Month-to-month,No,1
+67,36.73,One year,No,0
+18,98.06,One year,Yes,0
+25,78.38,Month-to-month,No internet service,0
+54,115.22,Month-to-month,No,1
+58,24.24,Month-to-month,No,1
+67,46.53,Month-to-month,No,1
+46,80.16,Month-to-month,No,1
+24,49.66,Month-to-month,No internet service,0
+32,91.44,Two year,No internet service,0
+47,95.9,Two year,No,1
+23,30.25,Month-to-month,No internet service,1
+66,71.39,Month-to-month,No,1
+27,70.89,Month-to-month,No internet service,0
+2,56.93,One year,Yes,0
+17,113.29,Two year,No,1
+33,102.75,Month-to-month,Yes,1
+9,89.72,Month-to-month,No internet service,1
+43,91.43,One year,Yes,0
+48,66.17,One year,No,0
+39,112.1,Month-to-month,No,0
+42,89.46,One year,No,1
+26,92.9,Month-to-month,No,1
+50,106.17,Month-to-month,No internet service,1
+25,47.41,One year,No,0
+24,100.71,Two year,No internet service,1
+13,39.52,Month-to-month,Yes,1
+60,54.53,Two year,No,1
+7,53.56,Month-to-month,No,1
+57,117.85,One year,Yes,0
+36,105.65,Month-to-month,No,1
+45,90.12,Two year,No,0
+20,92.71,Two year,No,1
+65,76.21,Month-to-month,No,1
+8,114.71,Two year,No,1
+16,69.63,Two year,Yes,0
+14,58.05,One year,Yes,0
+15,36.3,Month-to-month,No,1
+66,98.62,Two year,Yes,0
+32,93.44,Two year,Yes,0
+63,58.44,Month-to-month,No,1
+51,22.52,Two year,No,1
+25,103.9,Month-to-month,No,1
+58,21.14,Month-to-month,No,0
+63,90.37,One year,No,0
+62,117.03,One year,No,0
+22,63.77,One year,No,0
+58,43.5,Month-to-month,No,1
+58,90.49,Two year,No,0
+49,101.71,Month-to-month,No,1
+52,74.64,Month-to-month,Yes,0
+42,116.7,Month-to-month,No,1
+70,25.17,One year,No,0
+15,70.48,Two year,No internet service,0
+54,91.85,One year,No internet service,0
+60,106.26,Two year,No,1
+8,37.93,Month-to-month,Yes,1
+53,100.0,One year,Yes,0
+60,75.27,Month-to-month,No,0
+5,59.66,Month-to-month,No,1
+68,33.17,Month-to-month,Yes,1
+6,106.53,One year,No,1
+47,35.73,One year,Yes,0
+55,50.98,One year,No internet service,0
+40,49.0,Month-to-month,Yes,1
+52,107.14,Month-to-month,No internet service,0
+16,87.27,One year,No internet service,0
+13,99.67,Month-to-month,No,1
+30,45.05,Two year,No,0
+19,82.49,One year,No,1
+17,77.17,Month-to-month,No,1
+63,103.28,Two year,No,1
+19,110.61,One year,No,0
+58,21.22,Month-to-month,No,0
+55,87.4,One year,No,0
+62,25.18,Month-to-month,No,0
+23,74.89,Two year,Yes,0
+9,48.76,Two year,No,0
+12,50.68,Two year,Yes,0
+1,55.3,One year,Yes,1
+58,82.13,Month-to-month,Yes,0
+1,53.4,One year,Yes,0
+34,93.27,Month-to-month,Yes,0
+48,60.45,One year,No internet service,0
+1,26.84,One year,Yes,0
+16,98.38,Month-to-month,No,1
+61,48.58,Month-to-month,Yes,0
+64,63.28,Two year,No internet service,0
+63,88.54,Two year,No,1
+69,53.25,Month-to-month,No,0
+22,25.66,Month-to-month,No,1
+67,57.39,Month-to-month,No,1
+26,114.44,Two year,No,1
+16,84.17,Month-to-month,Yes,1
+51,87.15,One year,No internet service,0
+57,83.23,Month-to-month,No,1
+29,39.9,One year,No,0
+69,61.83,Month-to-month,No,1
+47,95.09,One year,No,1
+62,30.14,Month-to-month,No internet service,0
+69,47.79,One year,No,1
+16,47.63,Month-to-month,No,1
+48,63.2,One year,Yes,0
+39,118.04,Two year,No internet service,0
+33,26.75,Month-to-month,No,1
+23,71.87,Two year,Yes,0
+10,37.94,One year,Yes,0
+69,117.07,Month-to-month,No,1
+34,31.33,Month-to-month,No internet service,1
+52,60.36,Month-to-month,Yes,0
+10,93.79,One year,No,0
+19,90.46,One year,Yes,0
+58,62.27,Month-to-month,No,1
+1,54.65,One year,No,1
+69,59.76,Two year,No internet service,0
+4,46.43,Two year,No,0
+16,40.53,One year,No internet service,0
+24,68.3,Two year,No,0
+2,46.85,One year,Yes,0
+32,48.75,Month-to-month,No,0
+24,85.68,Two year,No,1
+12,116.85,Month-to-month,No internet service,1
+50,80.36,Month-to-month,No internet service,1
+35,27.7,Month-to-month,Yes,0
+33,27.56,Two year,Yes,0
+33,115.14,Two year,Yes,0
+61,49.73,Month-to-month,No internet service,1
+51,29.21,Month-to-month,No internet service,1
+43,79.9,Month-to-month,No,1
+12,82.36,One year,No,0
+67,84.85,Month-to-month,No,0
+65,46.74,One year,No,0
+33,21.51,Month-to-month,Yes,0
+40,116.5,Month-to-month,No,0
+43,45.09,Month-to-month,Yes,1
+44,87.6,Month-to-month,Yes,0
+29,90.66,Two year,No internet service,0
+13,81.0,Month-to-month,No,1
+12,51.29,Month-to-month,No,1
+46,47.11,Month-to-month,No,0
+2,79.77,Month-to-month,No,1
+35,106.61,Month-to-month,No,0
+8,114.67,Month-to-month,No,1
+26,30.59,One year,No,0
+34,35.48,One year,No,0
+7,114.47,Month-to-month,Yes,1
+68,93.65,Month-to-month,No,1
+58,108.3,Two year,No,0
+29,40.26,Month-to-month,No,1
+36,78.76,Month-to-month,No,1
+21,90.11,Month-to-month,No,1
+36,88.01,Month-to-month,Yes,0
+10,60.82,One year,No,1
+24,21.54,Month-to-month,No internet service,0
+64,78.29,One year,Yes,0
+49,45.31,Month-to-month,No,1
+36,65.03,Month-to-month,No,1
+24,115.76,One year,Yes,0
+23,59.9,Month-to-month,No,1
+62,103.98,One year,No,1
+37,38.85,Month-to-month,No,0
+12,87.25,One year,No internet service,0
+55,117.7,Month-to-month,Yes,0
+13,30.19,Two year,Yes,0
+23,20.83,Month-to-month,No internet service,1
+30,63.36,Two year,No,0
+17,29.26,Month-to-month,No,1
+62,94.84,One year,No,0
+13,111.45,Month-to-month,No,0
+59,63.4,Two year,No,0
+19,45.87,Month-to-month,Yes,0
+49,63.44,Month-to-month,Yes,1
+12,92.34,Month-to-month,Yes,1
+61,20.91,Month-to-month,No internet service,0
+19,78.95,Month-to-month,Yes,0
+9,81.33,Two year,No,1
+71,83.77,Two year,No internet service,0
+28,44.2,Month-to-month,No,0
+52,91.41,Two year,No,0
+16,29.14,One year,No,1
+69,39.93,Month-to-month,No,0
+12,107.75,One year,No,0
+25,93.87,One year,No,0
+52,21.37,Two year,No internet service,0
+53,44.84,Month-to-month,No internet service,1
+23,41.44,One year,No internet service,0
+16,47.08,Month-to-month,No internet service,0
+57,44.76,Month-to-month,No,1
+39,26.25,Month-to-month,No,1
+53,65.89,Two year,No internet service,0
+42,93.27,Two year,No,0
+58,80.67,One year,No internet service,1
+39,87.29,One year,No,0
+14,28.11,Month-to-month,No,0
+5,115.15,Month-to-month,No,1
+35,103.85,Month-to-month,No internet service,0
+18,100.51,Month-to-month,Yes,1
+9,102.3,One year,No,1
+58,113.27,One year,No,0
+17,74.43,Month-to-month,Yes,0
+7,40.03,Month-to-month,No,1
+46,81.68,Month-to-month,No,1
+13,94.29,Month-to-month,No,0
+40,93.79,Two year,No,0
+42,72.14,One year,No,0
+9,26.85,Two year,No,1
+50,57.11,Month-to-month,No,0
+27,112.08,Month-to-month,Yes,1
+66,78.44,Month-to-month,No internet service,1
+5,73.83,Two year,No,0
+29,46.89,One year,No,0
+37,56.84,Month-to-month,No,0
+38,109.53,One year,No,0
+8,86.65,Month-to-month,No,1
+65,98.74,One year,No,0
+17,65.43,Two year,No,0
+71,83.02,One year,No,0
+45,44.84,One year,No,0
+4,90.55,Month-to-month,Yes,1
+36,62.76,Month-to-month,No,0
+70,64.25,Month-to-month,Yes,0
+31,84.93,Month-to-month,Yes,0
+19,113.63,One year,No internet service,0
+61,26.4,One year,No,0
+54,102.47,Month-to-month,No,1
+39,49.24,Two year,No,0
+19,64.39,Month-to-month,No internet service,0
+39,22.19,Month-to-month,No,0
+67,50.1,Month-to-month,No,1
+45,70.26,Month-to-month,No,1
+13,25.62,Month-to-month,No internet service,0
+58,69.11,Month-to-month,No internet service,1
+20,112.71,Month-to-month,No internet service,1
+61,30.54,Two year,Yes,0
+39,96.44,Month-to-month,Yes,1
+1,60.97,Month-to-month,Yes,1
+3,85.52,Month-to-month,Yes,1
+62,46.02,One year,No internet service,0
+63,35.95,Month-to-month,Yes,0
+25,36.05,Two year,Yes,0
+56,27.05,One year,Yes,0
+33,38.56,One year,Yes,0
+38,86.42,One year,Yes,0
+6,108.17,Month-to-month,No,1
+58,101.41,Month-to-month,No,1
+44,88.51,Month-to-month,Yes,0
+45,31.04,One year,No,0
+32,48.92,Month-to-month,No,0
+45,50.98,Month-to-month,Yes,0
+61,45.0,Two year,No,0
+47,71.5,Month-to-month,No,1
+21,73.56,Two year,No,0
+36,55.69,One year,No,0
+19,55.38,Month-to-month,Yes,1
+20,102.86,Month-to-month,No internet service,1
+57,98.93,Month-to-month,No internet service,0
+18,50.78,One year,No internet service,0
+47,111.38,One year,Yes,0
+49,115.28,One year,No internet service,1
+14,52.67,Two year,No internet service,0
+15,55.44,One year,No internet service,0
+31,70.56,Month-to-month,Yes,0
+1,114.11,Month-to-month,No,1
+54,107.63,Two year,No internet service,0
+3,30.26,Month-to-month,No,1
+16,59.27,Month-to-month,No,0
+57,75.34,One year,No internet service,0
+12,70.31,Month-to-month,No,0
+16,39.39,Two year,No,0
+24,105.88,One year,No,1
+28,87.69,Month-to-month,No internet service,0
+8,103.79,Two year,Yes,0
+36,105.88,Month-to-month,No,0
+8,94.84,Month-to-month,No,1
+58,63.92,Month-to-month,No,1
+60,81.05,Month-to-month,No,1
+50,36.04,Month-to-month,No internet service,1
+28,87.36,Month-to-month,No internet service,1
+41,37.93,Month-to-month,Yes,1
+64,89.39,Month-to-month,No,0
+27,42.96,One year,Yes,0
+63,31.76,Two year,No,0
+17,36.53,Month-to-month,No,1
+33,20.2,Month-to-month,No internet service,1
+29,91.87,Month-to-month,No internet service,0
+13,93.24,Month-to-month,Yes,0
+46,71.49,One year,Yes,0
+35,36.14,One year,No,0
+6,28.36,Month-to-month,No,1
+69,21.91,Month-to-month,Yes,0
+47,36.57,Month-to-month,No internet service,1
+25,109.09,One year,No internet service,0
+66,44.15,Month-to-month,No,1
+10,55.43,Two year,No internet service,0
+56,30.53,One year,No,0
+30,42.24,Month-to-month,No,1
+5,71.92,One year,No,1
+33,80.78,Two year,Yes,1
+65,44.54,One year,No internet service,0
+18,25.77,Month-to-month,No,1
+49,59.1,Month-to-month,No,1
+11,43.42,Two year,No,1
+26,41.96,One year,Yes,0
+63,115.99,One year,Yes,0
+59,81.63,Two year,No,0
+27,75.69,Two year,No,1
+49,61.58,Two year,No,0
+33,62.89,Month-to-month,No,1
+1,74.09,One year,No,1
+21,89.64,One year,No,1
+55,90.21,One year,No,0
+6,37.17,One year,No internet service,0
+69,70.01,Month-to-month,No,1
+5,61.2,One year,No,0
+3,107.05,One year,Yes,0
+53,83.14,Month-to-month,No,0
+23,73.25,Month-to-month,Yes,1
+53,31.54,Month-to-month,No,0
+37,80.56,Month-to-month,Yes,1
+17,31.72,Month-to-month,No,1
+1,53.72,Month-to-month,No,1
+51,34.28,One year,No,0
+45,89.21,One year,Yes,0
+4,40.63,One year,Yes,0
+62,59.19,Two year,No,0
+65,109.57,Month-to-month,Yes,1
+32,40.43,Month-to-month,No,0
+34,70.78,Two year,No,0
+39,61.93,Month-to-month,No,0
+26,21.81,Two year,No,0
+34,99.28,Two year,No internet service,0
+54,26.9,One year,Yes,0
+3,67.43,Two year,Yes,0
+50,76.07,Month-to-month,Yes,0
+12,82.84,Month-to-month,Yes,1
+65,88.86,One year,Yes,0
+54,45.33,Month-to-month,No,0
+5,21.0,Two year,No,0
+57,92.34,Month-to-month,No,0
+17,73.57,One year,No,0
+47,103.61,One year,No,0
+23,102.14,One year,No,0
+14,104.33,Month-to-month,Yes,1
+66,68.51,Month-to-month,No,0
+51,53.36,Two year,Yes,0
+38,99.16,Month-to-month,Yes,0
+64,65.13,Two year,No,0
+38,38.34,One year,No internet service,0
+50,105.5,One year,No,0
+30,108.26,One year,Yes,0
+51,66.63,Month-to-month,No internet service,0
+63,27.57,One year,No,0
+52,58.78,Two year,No,0
+38,100.35,Month-to-month,No internet service,0
+30,110.18,Two year,No,0
+51,40.35,Month-to-month,Yes,0
+5,26.7,Month-to-month,No,1
+29,107.74,Month-to-month,No,1
+4,58.94,Two year,No,1
+10,74.18,Month-to-month,No,1
+56,116.81,Two year,No internet service,0
+17,26.66,Two year,No internet service,0
+17,84.83,Month-to-month,No internet service,0
+69,27.41,Month-to-month,No internet service,0
+34,57.55,One year,No internet service,0
+6,100.38,Month-to-month,Yes,1
+53,63.35,One year,Yes,0
+66,119.72,Month-to-month,No,1
+43,75.91,Month-to-month,No internet service,0
+23,52.12,One year,No,0
+55,42.01,Month-to-month,No,0
+16,55.05,Month-to-month,Yes,0
+8,57.25,Month-to-month,Yes,1
+4,26.87,Month-to-month,No,0
+4,56.96,One year,Yes,0
+56,66.42,Two year,No,0
+25,92.27,Month-to-month,Yes,1
+67,85.67,One year,No,0
+67,90.88,One year,No,0
+27,20.84,Month-to-month,No,1
+32,41.77,Month-to-month,No,0
+50,86.17,Two year,Yes,0
+61,68.4,One year,No internet service,0
+51,20.53,One year,No,0
+19,100.45,One year,No,0
+21,97.28,Month-to-month,No,0
+5,74.84,One year,Yes,0
+42,26.65,One year,No internet service,0
+61,96.65,One year,No,0
+22,78.37,Month-to-month,No,1
+21,98.2,Month-to-month,Yes,0
+70,95.17,Month-to-month,No internet service,1
+1,100.3,Two year,No,0
+5,71.8,Month-to-month,Yes,1
+12,34.03,Month-to-month,No,0
+46,87.12,Month-to-month,No internet service,0
+34,82.05,Month-to-month,No,1
+49,94.23,One year,No,1
+45,36.99,One year,No,1
+27,39.5,One year,No,1
+26,109.04,Month-to-month,No,1
+47,95.0,One year,Yes,0
+56,110.82,Month-to-month,No,1
+63,95.87,Month-to-month,No internet service,1
+48,79.72,Month-to-month,No,0
+61,85.41,Month-to-month,No,1
+26,108.91,Month-to-month,No,1
+36,77.88,One year,No,0
+1,83.24,One year,No internet service,0
+8,35.65,Two year,No,1
+52,67.39,Month-to-month,Yes,0
+47,91.64,Month-to-month,No internet service,1
+56,47.09,Month-to-month,No,1
+14,40.23,Two year,No internet service,0
+28,51.38,One year,No,0
+2,44.15,One year,No internet service,0
+26,41.49,Month-to-month,Yes,1
+14,62.49,One year,No,1
+59,110.78,Month-to-month,No internet service,0
+56,70.71,One year,Yes,0
+7,38.79,Two year,Yes,0
+3,27.7,Two year,No,0
+23,89.62,One year,No internet service,0
+18,58.28,Month-to-month,Yes,1
+38,102.18,Two year,No internet service,0
+15,85.95,One year,No,0
+64,99.62,Month-to-month,No,0
+28,47.19,Month-to-month,No internet service,0
+39,89.24,Month-to-month,No,1
+57,46.41,Month-to-month,Yes,0
+17,113.91,Month-to-month,Yes,1
+44,83.64,One year,No,0
+25,52.45,Month-to-month,No,0
+17,46.95,Month-to-month,No internet service,0
+13,39.09,One year,No,0
+25,89.46,Two year,No,1
+68,41.87,One year,No,0
+10,79.53,Month-to-month,Yes,1
+67,46.46,Two year,Yes,0
+18,86.2,Two year,No internet service,0
+34,101.49,Month-to-month,Yes,1
+8,97.8,Month-to-month,Yes,1
+40,96.09,One year,No,0
+42,38.77,Two year,No,0
+41,28.84,Two year,No internet service,0
+6,89.89,Two year,Yes,1
+52,56.83,One year,Yes,0
+26,63.23,One year,No,0
+64,23.11,Month-to-month,No,1
+59,45.96,Month-to-month,No,1
+56,23.37,Month-to-month,No,1
+59,107.92,One year,No internet service,0
+70,44.34,One year,No internet service,0
+33,75.73,One year,Yes,0
+53,23.9,Month-to-month,No,0
+22,86.68,One year,No,0
+21,52.3,Month-to-month,No internet service,1
+70,109.79,Month-to-month,No internet service,1
+70,108.81,One year,Yes,0
+4,52.53,One year,No,1
+62,110.1,Two year,No,1
+62,119.62,Month-to-month,Yes,0
+24,102.54,Month-to-month,Yes,1
+55,104.49,Month-to-month,No,1
+9,44.9,Month-to-month,No,1
+3,77.67,Two year,Yes,0
+31,26.73,One year,No,0
+40,29.49,Two year,Yes,0
+36,119.89,Month-to-month,No,1
+24,52.66,Two year,No,0
+6,94.82,Month-to-month,Yes,0
+66,100.67,Two year,No,0
+4,105.8,Month-to-month,Yes,1
+6,119.76,Month-to-month,No,1
+51,44.15,One year,Yes,0
+62,24.04,Two year,No,1
+57,61.12,Month-to-month,Yes,1
+66,33.01,Month-to-month,No,0
+8,22.24,Two year,No,0
+26,56.04,Month-to-month,Yes,1
+51,98.37,Month-to-month,No,1
+45,76.62,Month-to-month,Yes,0
+44,51.28,Month-to-month,No,1
+5,85.43,Two year,Yes,0
+70,43.2,One year,No,0
+26,21.44,One year,No,0
+68,96.44,Two year,No internet service,1
+19,82.37,Month-to-month,No,1
+20,96.23,Month-to-month,No,1
+12,23.89,Month-to-month,No,1
+47,103.71,Month-to-month,No internet service,1
+1,81.95,Month-to-month,No,1
+14,76.34,Two year,Yes,0
+64,82.46,One year,No internet service,0
+38,106.44,Month-to-month,No,1
+37,78.69,One year,No internet service,0
+11,78.1,One year,No internet service,1
+3,119.07,Two year,Yes,0
+33,95.67,Two year,No,1
+6,64.23,One year,Yes,0
+50,90.74,One year,Yes,0
+10,58.92,One year,Yes,1
+5,42.89,One year,No,0
+23,79.69,Month-to-month,Yes,0
+10,112.82,Month-to-month,Yes,1
+44,112.91,One year,No,0
+2,54.19,Month-to-month,Yes,0
+13,72.77,Month-to-month,Yes,1
+40,41.16,One year,Yes,0
+2,119.56,Month-to-month,No,1
+65,118.11,One year,No,0
+63,84.95,One year,Yes,0
+17,100.44,Two year,No internet service,0
+9,91.51,Month-to-month,No,1
+15,79.32,Month-to-month,No,0
+24,25.33,One year,No,0
+38,65.48,Two year,No,1
+35,87.48,Two year,No,1
+49,87.75,Month-to-month,Yes,0
+69,57.31,Month-to-month,Yes,1
+62,114.17,Two year,No internet service,0
+60,36.74,Month-to-month,Yes,0
+50,70.04,One year,No,0
+9,89.09,Month-to-month,No internet service,1
+34,89.71,Month-to-month,No,1
+35,84.86,Month-to-month,No,1
+1,47.53,Month-to-month,No,1
+40,35.62,One year,Yes,0
+64,83.59,Two year,No,1
+22,79.93,Month-to-month,No,0
+60,37.94,Two year,No internet service,0
+64,90.51,Month-to-month,No internet service,0
+11,65.52,One year,No internet service,0
+14,86.78,Month-to-month,No internet service,0
+60,103.74,Two year,No,0
+30,36.97,One year,No,0
+35,21.91,One year,No,0
+37,97.91,Two year,No,0
+5,80.97,One year,No internet service,0
+26,89.96,Two year,Yes,0
+62,103.82,One year,No internet service,0
+4,100.28,Two year,No internet service,0
+42,116.09,One year,No internet service,0
+18,73.59,Month-to-month,No internet service,0
+40,68.85,One year,Yes,0
+39,60.19,Month-to-month,Yes,0
+14,35.37,One year,Yes,0
+32,77.26,Month-to-month,Yes,1
+51,47.7,One year,No,0
+38,112.13,Month-to-month,No internet service,0
+23,78.32,Month-to-month,No internet service,1
+63,79.28,Month-to-month,No,1
+15,55.49,Two year,Yes,0
+25,25.2,Month-to-month,Yes,0
+17,23.17,Month-to-month,Yes,0
+66,62.33,One year,No,0
+53,28.46,One year,No,1
+51,80.68,Month-to-month,Yes,0
+39,108.1,Month-to-month,No,1
+51,108.29,Month-to-month,Yes,0
+70,85.9,Two year,No,0
+6,41.12,Month-to-month,No,0
+67,106.3,Month-to-month,No,1
+7,108.61,Month-to-month,No,1
+51,39.67,Month-to-month,No internet service,1
+42,93.74,One year,Yes,0
+64,48.65,Month-to-month,No,0
+15,100.26,Month-to-month,No,1
+29,119.72,Month-to-month,No,1
+33,23.0,Month-to-month,No internet service,1
+27,109.74,Month-to-month,No,1
+36,82.26,Two year,No,1
+29,117.34,One year,Yes,0
+38,66.5,Two year,No,1
+57,104.74,Two year,Yes,0
+27,26.24,One year,Yes,0
+55,53.53,Month-to-month,No,1
+33,26.7,One year,No,1
+68,117.53,Two year,Yes,0
+66,101.7,One year,No,0
+10,105.25,One year,No,0
+5,113.8,Month-to-month,Yes,1
+38,28.51,Two year,No,0
+13,58.56,One year,No,1
+31,27.1,Two year,No,0
+47,41.08,Month-to-month,No,0
+52,42.94,Month-to-month,No,1
+56,66.91,Month-to-month,No,0
+15,46.86,One year,No internet service,0
+29,30.1,Month-to-month,No,1
+8,36.75,Month-to-month,Yes,1
+5,34.73,Two year,No,1
+29,117.31,Month-to-month,No internet service,0
+47,95.93,Two year,Yes,0
+68,116.78,Month-to-month,No internet service,1
+45,63.97,Two year,No internet service,0
+2,47.84,One year,Yes,0
+27,99.83,Two year,No internet service,0
+36,52.63,Two year,No,0
+36,49.94,Month-to-month,No internet service,0
+26,43.25,Month-to-month,No,1
+43,32.97,Month-to-month,No,1
+27,45.65,One year,No,0
+69,55.53,Two year,No,0
+20,87.4,Month-to-month,Yes,0
+11,26.26,One year,No,0
+38,41.05,Month-to-month,Yes,0
+6,100.9,Two year,No,1
+23,34.69,Two year,No,1
+47,54.26,Month-to-month,No,1
+46,106.47,Month-to-month,No,1
+12,35.49,Month-to-month,Yes,0
+13,28.27,One year,Yes,0
+62,68.45,One year,Yes,0
+60,50.24,Month-to-month,No,0
+43,76.34,Month-to-month,No internet service,1
+68,100.38,Month-to-month,Yes,0
+5,33.71,One year,No internet service,0
+37,78.07,One year,No,0
+31,70.55,Month-to-month,No,0
+9,34.41,One year,No,1
+51,82.4,One year,No internet service,0
+29,47.36,Month-to-month,Yes,1
+40,68.78,Month-to-month,No,0
+41,28.23,One year,No,1
+11,65.96,Two year,No,1
+23,50.65,Month-to-month,No internet service,1
+1,102.24,Month-to-month,Yes,1
+46,25.7,Month-to-month,No,0
+21,61.86,One year,No,1
+36,65.84,Month-to-month,No,1
+54,92.5,Month-to-month,No,0
+57,77.43,One year,No,0
+1,86.72,One year,No internet service,0
+63,97.7,Month-to-month,No,1
+54,106.22,Month-to-month,No internet service,0
+55,51.39,One year,No,1
+40,73.8,Month-to-month,Yes,1
+15,104.01,Month-to-month,Yes,0
+21,118.95,Two year,Yes,0
+47,108.95,Month-to-month,No,1
+53,57.15,One year,No,0
+9,39.52,Two year,No,0
+52,68.94,Month-to-month,No,1
+57,94.16,Month-to-month,Yes,0
+26,69.26,One year,Yes,0
+41,68.32,Two year,Yes,0
+35,103.82,Two year,No,1
+63,56.14,One year,Yes,0
+25,105.98,Month-to-month,Yes,1
+38,60.68,One year,No internet service,0
+2,52.82,Month-to-month,No internet service,1
+7,65.4,Month-to-month,Yes,1
+34,96.24,Month-to-month,No,0
+17,32.6,Month-to-month,No,0
+43,39.64,One year,No,0
+59,115.14,Month-to-month,No,0
+51,37.55,Month-to-month,Yes,1
+54,76.77,Month-to-month,No,1
+24,77.93,Two year,No,0
+25,68.96,One year,Yes,0
+71,84.47,Month-to-month,No,1
+52,42.98,Month-to-month,No,0
+70,75.27,Month-to-month,No,1
+33,57.22,Two year,Yes,0
+49,86.17,One year,No,0
+29,34.12,One year,Yes,0
+63,77.09,One year,No,0
+22,38.53,Month-to-month,Yes,0
+26,47.86,Two year,Yes,0
+28,41.87,One year,No,1
+49,38.28,Month-to-month,No,1
+71,102.57,Month-to-month,No internet service,1
+49,48.57,One year,No,1
+20,112.71,Two year,Yes,0
+63,116.99,Month-to-month,No,0
+61,77.13,Two year,No,0
+49,34.3,One year,Yes,0
+71,57.45,Month-to-month,No internet service,0
+1,99.77,Month-to-month,Yes,1
+13,56.74,Month-to-month,No internet service,1
+51,28.7,One year,No internet service,0
+56,75.68,Month-to-month,No,1
+62,104.51,Month-to-month,No internet service,0
+32,99.59,One year,No,0
+30,37.51,One year,Yes,0
+29,87.28,Month-to-month,No,0
+49,42.05,Month-to-month,Yes,1
+45,41.82,Month-to-month,No,0
+30,107.41,One year,No,0
+16,44.97,Two year,No,0
+40,46.32,Month-to-month,No,1
+19,20.07,Two year,No,0
+18,107.07,One year,No internet service,1
+1,99.26,One year,Yes,0
+47,82.73,One year,No,1
+66,95.03,Month-to-month,Yes,0
+38,35.2,Month-to-month,No,1
+51,65.83,One year,Yes,0
+63,55.12,One year,No,0
+4,29.38,One year,Yes,1
+1,68.61,Month-to-month,Yes,1
+8,112.07,Two year,No internet service,1
+29,24.01,One year,Yes,0
+55,49.15,Month-to-month,No,1
+3,40.75,Month-to-month,Yes,0
+32,43.81,One year,No,0
+10,110.84,One year,No,0
+34,66.81,Month-to-month,No,0
+55,66.63,Two year,Yes,0
+32,96.06,Month-to-month,No,1
+50,35.45,Month-to-month,No,1
+7,68.73,Two year,No,0
+8,63.0,Two year,No,0
+65,79.69,One year,No,0
+57,119.96,Two year,Yes,1
+67,96.94,Month-to-month,Yes,0
+59,59.79,Two year,Yes,0
+54,102.76,Month-to-month,Yes,0
+67,37.07,Month-to-month,Yes,0
+51,23.05,Month-to-month,No,1
+8,40.44,Month-to-month,No,1
+34,54.04,Month-to-month,No internet service,1
+35,71.06,Month-to-month,Yes,0
+32,81.51,Month-to-month,No,1
+46,111.06,Month-to-month,No internet service,1
+16,70.99,One year,No,0
+68,70.13,Month-to-month,Yes,1
+37,25.02,Month-to-month,Yes,1
+54,23.49,One year,Yes,0
+14,75.12,Two year,No,0
+55,63.82,One year,No,0
+48,103.92,Month-to-month,Yes,1
+7,36.07,One year,Yes,1
+7,22.5,Month-to-month,No,1
+33,64.9,Month-to-month,No,1
+23,43.75,Month-to-month,No,1
+19,24.96,Two year,No,0
+19,92.46,Month-to-month,No,1
+36,31.16,Month-to-month,Yes,0
+29,80.83,Month-to-month,No,1
+60,48.1,Two year,No,0
+2,37.35,One year,No internet service,0
+1,57.98,Month-to-month,Yes,0
+47,100.14,One year,No,1
+69,59.21,One year,No,0
+20,95.08,One year,No,1
+11,32.55,Month-to-month,Yes,0
+2,97.28,Two year,No,1
+67,43.69,Month-to-month,No internet service,0
+12,87.74,One year,No,0
+20,76.58,Month-to-month,No,0
+5,112.91,Month-to-month,Yes,1
+37,58.73,Month-to-month,Yes,0
+38,26.62,One year,No,0
+9,21.92,Month-to-month,No internet service,1
+53,102.69,One year,No internet service,0
+44,72.47,Month-to-month,No,0
+24,97.52,One year,No,0
+30,43.44,Two year,No internet service,0
+59,54.51,One year,No,0
+14,23.01,One year,No,0
+9,116.15,One year,Yes,0
+40,86.79,Month-to-month,No,0
+66,113.32,Two year,No,1
+25,46.55,Month-to-month,No internet service,0
+22,81.15,One year,No,0
+4,87.85,One year,Yes,0
+26,51.75,Month-to-month,No,0
+58,104.81,Month-to-month,No internet service,1
+29,114.72,Month-to-month,No,1
+37,108.49,Two year,Yes,0
+70,93.91,Two year,Yes,0
+18,47.75,One year,No,0
+42,48.16,One year,No,0
+41,116.34,Two year,No,0
+38,21.03,Month-to-month,Yes,0
+34,91.6,Month-to-month,No internet service,0
+17,90.62,One year,Yes,0
+37,82.27,Two year,Yes,0
+25,119.01,Two year,No,0
+27,51.19,Month-to-month,No,1
+57,54.0,Month-to-month,Yes,0
+31,27.89,Month-to-month,Yes,1
+6,64.28,Month-to-month,Yes,0
+40,46.1,Month-to-month,No,1
+12,54.34,One year,No,0
+53,103.46,Month-to-month,No,1
+71,113.55,Two year,No,1
+10,38.57,Month-to-month,No,0
+45,57.25,One year,Yes,0
+17,112.86,Month-to-month,No internet service,1
+26,26.18,Month-to-month,No internet service,1
+62,29.24,Month-to-month,Yes,1
+46,36.28,Two year,Yes,0
+64,79.52,Two year,Yes,0
+2,35.05,Month-to-month,Yes,1
+54,116.81,Month-to-month,No,1
+65,64.67,Two year,No,0
+51,70.15,Month-to-month,No,1
+53,44.67,Month-to-month,No,1
+36,67.1,One year,No,0
+26,86.19,Two year,No,0
+29,95.12,Month-to-month,Yes,1
+21,95.39,Month-to-month,No,0
+11,77.79,Two year,No,1
+40,110.44,Month-to-month,Yes,1
+11,101.74,Month-to-month,Yes,1
+36,95.7,One year,No internet service,0
+59,25.56,Two year,No,0
+39,20.69,Month-to-month,Yes,1
+54,41.24,Two year,No,0
+55,86.35,One year,No,0
+24,61.12,Month-to-month,No,0
+22,60.24,Two year,Yes,0
+69,108.46,Month-to-month,No internet service,0
+56,109.56,Month-to-month,No,1
+33,110.92,One year,Yes,0
+36,51.39,Month-to-month,No,1
+20,89.11,Month-to-month,No,1
+62,47.16,Month-to-month,Yes,1
+26,39.06,Month-to-month,Yes,1
+66,38.46,Two year,Yes,0
+40,54.21,One year,No internet service,0
+17,63.0,Two year,Yes,0
+1,103.09,Month-to-month,No,1
+61,31.99,Month-to-month,No internet service,0
+43,93.49,Month-to-month,Yes,1
+42,73.15,Month-to-month,No internet service,0
+25,48.79,Month-to-month,No internet service,1
+39,69.28,One year,No internet service,0
+35,49.99,Two year,Yes,0
+3,79.61,Two year,No,1
+44,63.38,Month-to-month,No,0
+51,36.44,Two year,No internet service,0
+12,31.66,Month-to-month,Yes,0
+19,74.67,Month-to-month,No,0
+44,110.24,Two year,No,0
+59,54.4,One year,Yes,0
+49,93.3,Month-to-month,No,1
+61,85.87,Month-to-month,No,1
+17,113.16,Month-to-month,No,1
+57,102.1,One year,No,0
+55,76.66,Month-to-month,No internet service,1
+47,85.7,Two year,No,1
+12,109.84,Month-to-month,No,1
+62,59.95,Month-to-month,No,0
+8,52.68,Month-to-month,No,1
+21,21.08,One year,No,0
+70,102.66,Month-to-month,No internet service,0
+25,100.1,One year,No,0
+12,30.45,Two year,No,0
+15,77.69,Two year,Yes,0
+59,66.4,Two year,Yes,0
+26,31.87,Two year,No,0
+26,118.06,One year,Yes,0
+47,41.47,Two year,Yes,0
+32,26.72,Month-to-month,No,1
+10,79.48,Month-to-month,Yes,0
+16,93.89,Month-to-month,Yes,1
+71,23.24,Month-to-month,No,1
+17,85.87,Month-to-month,No,0
+23,73.23,Two year,No internet service,0
+26,30.33,Month-to-month,No,1
+7,37.25,Month-to-month,No,1
+14,76.8,One year,No internet service,0
+7,49.64,Month-to-month,No,1
+9,113.83,Month-to-month,Yes,1
+48,101.87,Month-to-month,Yes,1
+59,118.36,Month-to-month,No,1
+39,45.97,Month-to-month,No,0
+18,116.97,One year,No,1
+59,63.12,One year,No,0
+17,54.75,Month-to-month,No,1
+14,25.03,Month-to-month,No internet service,0
+31,25.28,Month-to-month,No,1
+24,89.2,One year,Yes,0
+60,65.79,Month-to-month,No internet service,0
+45,42.65,Month-to-month,Yes,0
+3,81.4,One year,No,1
+37,45.29,Month-to-month,No internet service,0
+43,77.76,Month-to-month,No,1
+40,55.92,Month-to-month,No,0
+55,102.36,Two year,No,1
+39,102.07,Two year,No,0
+15,67.74,One year,No,0
+4,55.08,Month-to-month,No,1
+25,56.26,One year,No,0
+13,100.57,Two year,No,0
+33,52.82,Two year,Yes,0
+16,40.91,Month-to-month,No,0
+42,28.47,Two year,No,0
+66,66.67,Month-to-month,No,0
+55,68.21,Month-to-month,No,1
+42,104.09,One year,No,0
+34,42.12,Month-to-month,No,1
+30,58.1,Two year,No,0
+13,100.84,Month-to-month,No internet service,0
+13,102.36,One year,Yes,0
+18,58.46,Two year,No internet service,0
+32,65.91,Two year,Yes,0
+39,50.33,Month-to-month,Yes,1
+46,113.26,Month-to-month,No internet service,1
+29,31.86,One year,Yes,0
+62,113.37,Month-to-month,No,1
+62,88.39,Two year,No internet service,0
+57,73.16,Two year,No internet service,0
+16,23.27,Month-to-month,No internet service,0
+56,67.56,Month-to-month,Yes,0
+10,60.77,Month-to-month,No,1
+30,36.12,Two year,Yes,0
+25,85.64,Month-to-month,No,1
+5,117.12,Month-to-month,No internet service,0
+65,76.22,Month-to-month,No,0
+49,91.48,One year,No,0
+3,26.85,Month-to-month,No,1
+45,61.77,Month-to-month,No,1
+14,31.64,Two year,No internet service,0
+30,81.28,Two year,Yes,0
+68,113.85,One year,No,0
+18,86.18,Month-to-month,No internet service,0
+62,27.68,Month-to-month,No,1
+37,55.47,One year,Yes,0
+25,75.07,Month-to-month,No,0
+48,60.32,Two year,No,0
+65,103.36,One year,Yes,0
+53,101.47,Month-to-month,No internet service,0
+15,81.18,Two year,No,1
+49,57.35,Two year,No internet service,0
+68,45.53,Month-to-month,No internet service,0
+12,30.59,One year,No,0
+59,55.49,Month-to-month,Yes,1
+37,61.32,Month-to-month,No,1
+61,87.58,Month-to-month,Yes,0
+43,85.82,One year,No internet service,0
+70,27.01,Two year,Yes,0
+39,59.53,One year,Yes,0
+56,38.18,Month-to-month,No,0
+63,35.68,One year,Yes,0
+46,102.73,Month-to-month,Yes,0
+11,24.19,Two year,No,1
+62,61.92,Month-to-month,Yes,0
+25,36.82,Month-to-month,Yes,1
+71,107.93,Month-to-month,No,1
+52,75.7,One year,No,0
+4,43.14,Month-to-month,No,1
+59,70.24,One year,No,0
+20,93.15,Month-to-month,No,0
+63,115.81,Month-to-month,No,1
+54,42.04,Month-to-month,No internet service,0
+57,108.62,Two year,Yes,0
+41,113.43,Two year,No,0
+3,111.64,Month-to-month,No internet service,1
+6,83.54,Month-to-month,No internet service,1
+5,82.98,Month-to-month,Yes,0
+5,60.32,One year,Yes,1
+54,95.24,Month-to-month,No,1
+47,73.13,Two year,Yes,0
+49,87.74,Two year,No internet service,0
+9,62.85,Month-to-month,No,0
+20,93.15,Month-to-month,No,1
+61,102.45,Two year,Yes,0
+35,34.64,Two year,No,0
+50,103.29,Month-to-month,No,0
+62,74.03,Month-to-month,No internet service,1
+17,104.47,Month-to-month,Yes,0
+3,63.13,Month-to-month,Yes,0
+32,57.9,Month-to-month,No,1
+13,111.51,Month-to-month,Yes,0
+68,45.12,One year,No,1
+14,104.42,Month-to-month,No internet service,1
+11,68.4,Month-to-month,No,1
+56,71.41,Month-to-month,No internet service,0
+67,50.85,Two year,Yes,0
+29,77.3,Two year,Yes,0
+9,52.52,Month-to-month,Yes,0
+67,23.93,Month-to-month,No,1
+25,47.2,Two year,No internet service,0
+42,20.64,Month-to-month,Yes,1
+9,117.84,Month-to-month,No,1
+40,116.57,Month-to-month,No,0
+25,59.52,Month-to-month,No internet service,0
+5,92.84,Month-to-month,Yes,1
+11,54.58,Two year,Yes,0
+59,87.11,One year,Yes,0
+38,100.54,Month-to-month,No,1
+5,114.68,Two year,Yes,1
+48,60.02,Month-to-month,No internet service,0
+18,98.33,Month-to-month,No,1
+70,46.59,One year,No,1
+37,119.03,One year,No,0
+60,22.58,Month-to-month,Yes,0
+48,80.35,Month-to-month,No,1
+28,85.95,One year,No internet service,0
+69,88.8,One year,No internet service,0
+40,32.04,One year,No internet service,0
+45,113.85,Month-to-month,No internet service,0
+62,38.12,Month-to-month,Yes,1
+58,82.28,Month-to-month,Yes,1
+67,42.27,Month-to-month,Yes,0
+56,50.72,Two year,No,0
+40,74.65,Month-to-month,Yes,1
+40,61.72,Month-to-month,No,1
+33,36.02,One year,No,0
+6,37.09,Month-to-month,No internet service,1
+19,61.81,Month-to-month,No,1
+40,95.73,Two year,No internet service,0
+59,109.8,Two year,Yes,0
+59,28.41,One year,Yes,0
+48,59.31,Month-to-month,No,0
+41,30.02,One year,Yes,0
+13,21.66,One year,Yes,0
+45,86.17,Month-to-month,No,1
+53,80.24,Month-to-month,Yes,0
+42,36.3,Two year,No,1
+63,43.38,Month-to-month,No,1
+27,22.37,One year,No,0
+38,103.49,Month-to-month,No,0
+60,117.47,Month-to-month,No,1
+7,33.55,Month-to-month,Yes,1
+5,43.15,Two year,Yes,0
+45,106.84,Month-to-month,No,0
+58,112.65,One year,No,1
+31,61.96,One year,No,1
+23,25.06,One year,No,0
+42,23.94,Two year,Yes,0
+10,77.39,One year,No,0
+32,59.29,Month-to-month,No,1
+53,22.87,Two year,No,1
+30,78.33,One year,No,0
+39,21.13,Month-to-month,No,1
+31,98.74,Month-to-month,No,1
+2,50.64,Two year,No,0
+12,24.03,Month-to-month,Yes,1
+39,78.84,One year,No,0
+66,59.77,Month-to-month,Yes,0
+13,117.38,Month-to-month,Yes,1
+46,74.42,One year,No internet service,0
+27,47.52,Month-to-month,No internet service,1
+17,90.94,Month-to-month,Yes,0
+60,47.15,One year,No,1
+64,110.42,Month-to-month,Yes,1
+35,57.47,One year,No,0
+70,74.99,Two year,No internet service,0
+30,25.06,One year,No internet service,0
+71,62.61,Month-to-month,No,0
+63,103.24,Month-to-month,No,1
+28,100.56,One year,No,0
+60,42.43,Two year,No,0
+37,42.61,Two year,No internet service,0
+22,101.73,Two year,No internet service,0
+68,113.04,Month-to-month,No,0
+20,29.54,Month-to-month,No,0
+68,65.01,Month-to-month,Yes,0
+64,53.75,Month-to-month,Yes,0
+17,107.07,Month-to-month,No internet service,0
+12,28.35,Two year,No,1
+22,41.11,Month-to-month,No,1
+17,95.25,Month-to-month,No,1
+10,25.13,Month-to-month,No internet service,1
+65,69.25,Two year,Yes,0
+22,64.21,One year,No internet service,0
+50,53.44,One year,No internet service,0
+14,59.46,Two year,No internet service,0
+64,72.99,Month-to-month,No,1
+47,36.14,One year,Yes,0
+29,77.2,Month-to-month,No,0
+36,100.54,Month-to-month,No,1
+52,96.02,Two year,Yes,1
+7,35.39,One year,No,0
+29,34.92,Month-to-month,No,1
+11,46.82,Month-to-month,No internet service,1
+33,56.11,One year,Yes,0
+6,60.85,Month-to-month,No,0
+32,87.97,Month-to-month,No,1
+51,25.67,Month-to-month,No,1
+58,23.47,Month-to-month,No internet service,0
+26,59.19,Two year,No,0
+46,89.72,Month-to-month,No internet service,1
+29,39.34,Month-to-month,No,1
+4,84.15,One year,No,0
+13,45.98,Two year,Yes,0
+39,108.61,Month-to-month,Yes,1
+15,109.57,Month-to-month,Yes,1
+29,49.73,Month-to-month,Yes,0
+29,43.0,One year,Yes,0
+32,61.13,One year,Yes,0
+2,44.05,Two year,Yes,1
+47,87.24,Two year,No internet service,1
+22,102.61,One year,Yes,0
+27,87.31,One year,No,0
+67,102.44,Month-to-month,Yes,0
+56,59.7,Month-to-month,No internet service,0
+21,35.63,Two year,No internet service,0
+47,93.8,Month-to-month,No,1
+59,56.05,Month-to-month,No,1
+6,87.13,One year,Yes,0
+19,47.06,Month-to-month,No internet service,0
+57,28.12,One year,No internet service,0
+69,119.26,One year,No internet service,0
+3,35.62,Month-to-month,No,1
+1,118.84,Two year,No,0
+58,117.73,Month-to-month,No internet service,1
+38,99.38,Month-to-month,Yes,0
+15,85.94,One year,No,0
+34,77.78,One year,Yes,0
+61,106.61,One year,No internet service,0
+35,48.94,Month-to-month,Yes,1
+64,66.77,One year,Yes,0
+25,81.94,Month-to-month,No,0
+24,61.12,Two year,No,0
+12,62.75,Month-to-month,No,0
+18,53.03,One year,Yes,0
+15,76.42,Month-to-month,Yes,0
+27,105.06,Month-to-month,No,0
+60,40.15,Month-to-month,No internet service,0
+46,113.44,Two year,No internet service,1
+17,88.91,One year,No,0
+53,102.33,Two year,No internet service,1
+8,75.62,Month-to-month,No,1
+27,97.95,Month-to-month,No,1
+46,21.62,Month-to-month,No,1
+50,101.84,Two year,No,0
+71,24.01,Month-to-month,No,1
+3,108.99,Two year,No,0
+64,119.2,Two year,No,0
+44,49.41,Two year,Yes,0
+53,41.03,One year,Yes,0
+24,96.54,One year,No,0
+60,45.3,One year,Yes,0
+3,106.56,Month-to-month,Yes,1
+20,30.28,One year,No,0
+46,32.6,Month-to-month,No,0
+15,117.92,Month-to-month,No,1
+25,87.38,Month-to-month,No,0
+71,104.69,Month-to-month,No internet service,1
+17,52.43,Month-to-month,No internet service,0
+9,87.65,Month-to-month,No internet service,0
+38,79.42,One year,No,0
+48,80.32,Month-to-month,No,1
+60,88.25,One year,No internet service,1
+63,77.54,Month-to-month,Yes,1
+2,62.91,One year,Yes,1
+11,47.59,One year,No,1
+64,96.86,One year,Yes,0
+21,42.63,One year,No internet service,0
+18,89.24,Month-to-month,No,1
+64,43.33,One year,No,0
+38,82.53,Month-to-month,No,1
+32,94.71,Month-to-month,No,0
+11,41.87,One year,Yes,0
+45,25.99,Month-to-month,No,1
+33,33.1,One year,No,0
+41,80.6,One year,No,1
+8,104.94,Month-to-month,No,1
+11,24.5,Month-to-month,Yes,1
+51,93.42,Month-to-month,Yes,0
+41,54.13,Two year,Yes,0
+17,67.85,One year,No,0
+46,112.89,Month-to-month,No internet service,0
+32,53.2,Month-to-month,No internet service,1
+54,66.53,One year,No,1
+20,21.37,Two year,No,0
+33,28.16,Month-to-month,No,1
+40,45.86,Month-to-month,Yes,0
+32,22.79,Two year,Yes,0
+2,83.14,Month-to-month,No internet service,1
+33,62.64,Month-to-month,No,1
+30,74.81,Two year,No internet service,0
+33,37.46,One year,No,0
+26,49.59,Month-to-month,No,0
+22,86.38,Month-to-month,Yes,1
+66,116.53,Month-to-month,Yes,0
+38,25.04,Month-to-month,No,0
+46,109.04,Two year,No,1
+15,77.69,Month-to-month,Yes,0
+44,76.39,One year,Yes,0
+49,70.03,Two year,Yes,0
+61,26.94,Month-to-month,No,1
+67,28.99,Month-to-month,No,1
+6,80.09,One year,Yes,0
+9,54.1,Two year,Yes,0
+6,111.73,Two year,Yes,0
+32,60.66,Month-to-month,No,1
+41,34.33,One year,Yes,0
+8,91.47,One year,No,1
+50,49.34,Two year,Yes,0
+62,72.55,Month-to-month,Yes,0
+62,89.78,One year,No internet service,0
+7,110.03,Two year,No,1
+4,99.22,Month-to-month,Yes,1
+6,87.64,Month-to-month,No internet service,1
+58,87.96,Month-to-month,No,1
+22,114.59,Month-to-month,No internet service,1
+26,49.58,Month-to-month,No,0
+3,20.11,Two year,No,0
+41,47.2,Month-to-month,No internet service,1
+60,41.79,Month-to-month,Yes,0
+14,86.18,One year,No,0
+12,83.37,Month-to-month,No,1
+12,79.35,Month-to-month,Yes,1
+13,21.62,One year,Yes,0
+25,92.88,Two year,Yes,1
+45,52.35,One year,No,0
+19,86.51,One year,No,1
+55,75.66,Month-to-month,No,1
+45,54.27,Two year,Yes,0
+8,33.46,Month-to-month,No,1
+53,29.44,One year,No internet service,0
+55,103.15,Month-to-month,No,1
+32,111.84,Two year,No,0
+51,84.98,One year,No,1
+44,30.34,One year,No,1
+70,60.2,Month-to-month,No,0
+18,92.89,Month-to-month,No internet service,1
+22,97.98,One year,No,1
+37,31.82,One year,No internet service,0
+56,20.0,Month-to-month,Yes,0
+59,91.21,Two year,Yes,0
+3,55.66,Two year,Yes,0
+28,45.45,Month-to-month,No,1
+35,21.29,Two year,No,0
+61,74.03,One year,Yes,0
+54,105.12,Month-to-month,Yes,0
+63,115.76,Month-to-month,No internet service,1
+7,76.57,One year,No internet service,0
+49,71.45,One year,No,0
+31,28.51,Month-to-month,No,1
+58,74.89,One year,No,0
+61,58.0,One year,No,0
+24,80.71,One year,No internet service,0
+20,58.87,Month-to-month,Yes,0
+37,44.03,Two year,No,0
+4,29.5,Month-to-month,No,1
+20,51.49,Month-to-month,No,1
+60,29.66,Month-to-month,No,0
+24,37.69,Month-to-month,No,1
+50,118.73,Two year,Yes,0
+49,64.41,Month-to-month,No,1
+51,73.19,One year,Yes,0
+36,107.36,Month-to-month,Yes,0
+66,119.56,Month-to-month,Yes,1
+34,78.27,Two year,No,0
+36,101.25,One year,No,0
+6,52.69,Month-to-month,No,1
+39,50.57,One year,No,0
+42,60.27,Month-to-month,No,1
+58,87.25,Month-to-month,No,1
+12,88.22,One year,No,0
+3,51.52,One year,No,0
+18,33.32,Month-to-month,No,1
+40,83.24,Two year,No,1
+21,32.83,One year,No internet service,0
+15,77.85,Month-to-month,No internet service,1
+26,89.34,One year,Yes,1
+8,90.06,One year,Yes,1
+42,95.35,One year,No,1
+44,107.29,Month-to-month,No,1
+14,70.0,One year,Yes,0
+2,93.02,Month-to-month,No internet service,1
+37,81.92,Two year,Yes,0
+69,38.66,One year,No internet service,0
+38,22.57,Month-to-month,No,0
+41,48.45,One year,No,0
+62,64.3,Two year,Yes,0
+60,81.71,Two year,Yes,0
+14,105.0,Month-to-month,No,1
+2,39.62,Month-to-month,Yes,1
+70,32.55,One year,No,0
+17,116.35,Month-to-month,No,0
+28,30.8,Two year,Yes,0
+66,67.85,Month-to-month,Yes,1
+35,78.56,Month-to-month,No,0
+5,74.14,Month-to-month,Yes,0
+65,28.6,Month-to-month,Yes,0
+40,25.7,One year,No,1
+56,30.55,Month-to-month,No internet service,1
+36,78.56,Month-to-month,No,1
+45,74.43,Month-to-month,Yes,0
+23,43.37,One year,No,1
+47,83.78,Month-to-month,No internet service,0
+31,102.01,One year,No,0
+11,24.16,One year,No,0
+10,69.81,One year,No,1
+67,88.93,Two year,No,1
+14,45.23,Two year,Yes,0
+10,50.78,Two year,No,0
+1,81.36,Month-to-month,No,1
+5,109.79,Month-to-month,No internet service,1
+20,100.99,Month-to-month,Yes,1
+8,78.31,Two year,Yes,0
+43,93.02,Two year,No,0
+1,56.48,Two year,No,0
+57,84.1,Month-to-month,No,0
+64,66.62,Two year,Yes,0
+28,38.99,Month-to-month,Yes,0
+37,90.17,Month-to-month,No,1
+47,75.65,Month-to-month,No,1
+37,55.86,Month-to-month,No internet service,1
+49,111.13,One year,No,0
+44,22.09,Month-to-month,No,0
+56,51.58,Month-to-month,No,0
+28,25.69,One year,No,0
+6,96.65,Two year,No,0
+61,90.21,One year,No internet service,1
+20,53.14,Month-to-month,Yes,1
+2,87.57,Two year,No,1
+37,59.59,Two year,Yes,0
+20,95.63,Month-to-month,No,1
+26,65.42,One year,No,0
+29,61.23,Month-to-month,Yes,1
+1,113.47,Month-to-month,No internet service,1
+35,45.09,One year,Yes,0
+70,32.04,Two year,No,0
+59,78.45,Month-to-month,No internet service,0
+69,116.93,Two year,Yes,0
+33,57.78,Two year,No,0
+51,26.2,Two year,Yes,0
+12,53.93,Month-to-month,Yes,0
+20,70.59,Two year,No,0
+53,36.19,Month-to-month,No internet service,0
+43,85.81,One year,Yes,0
+50,119.77,Month-to-month,No,1
+29,65.17,Month-to-month,No,1
+57,55.47,One year,No internet service,0
+39,60.07,Month-to-month,Yes,0
+56,31.51,Month-to-month,No,0
+43,108.33,Month-to-month,No,1
+50,61.48,One year,No,0
+23,58.73,Month-to-month,No internet service,1
+44,85.97,Two year,No internet service,0
+38,64.2,Month-to-month,Yes,1
+23,84.82,Month-to-month,No,1
+45,26.14,Month-to-month,No,0
+52,101.37,Month-to-month,No,0
+50,114.05,Month-to-month,No,0
+8,84.88,Month-to-month,No,1
+1,115.46,Two year,No,1
+8,35.14,One year,No internet service,0
+29,67.74,Month-to-month,Yes,1
+5,80.18,Month-to-month,No internet service,1
+47,78.17,Two year,No,0
+34,60.15,Month-to-month,No,1
+65,53.81,Month-to-month,No internet service,1
+55,32.68,One year,No,0
+43,59.17,One year,No,1
+30,36.27,One year,No,0
+17,93.44,Month-to-month,No,1
+26,40.88,Month-to-month,No internet service,1
+8,25.86,One year,No internet service,0
+47,75.24,Month-to-month,Yes,0
+46,79.52,One year,Yes,0
+68,107.19,One year,No,1
+33,77.7,Month-to-month,Yes,0
+1,54.55,Two year,No,0
+19,100.3,Two year,Yes,0
+31,74.03,One year,No,0
+14,27.93,Month-to-month,Yes,0
+53,76.59,Month-to-month,No,1
+48,110.8,Month-to-month,No,1
+69,59.63,Month-to-month,No,1
+62,49.63,Two year,No internet service,0
+66,34.35,Month-to-month,No internet service,1
+64,35.14,Month-to-month,No,0
+70,63.28,Month-to-month,Yes,0
+63,79.57,One year,No internet service,0
+33,28.06,Month-to-month,No internet service,0
+41,113.96,Month-to-month,No internet service,0
+48,95.51,Month-to-month,Yes,1
+13,78.66,Two year,No internet service,0
+31,102.84,Month-to-month,Yes,1
+68,28.02,Two year,No,0
+4,67.68,Two year,No internet service,0
+19,83.01,Month-to-month,Yes,1
+70,102.87,One year,No internet service,1
+13,98.35,Month-to-month,No,1
+23,47.71,Two year,No internet service,0
+1,114.09,One year,Yes,0
+54,32.43,Month-to-month,No internet service,0
+71,107.51,Month-to-month,Yes,1
+15,117.09,Month-to-month,No,1
+65,37.72,Two year,No,0
+71,92.21,Month-to-month,No,1
+15,24.03,One year,Yes,0
+21,60.54,Month-to-month,No,0
+19,71.63,Two year,Yes,0
+60,78.06,Month-to-month,No,0
+33,113.59,One year,Yes,0
+49,87.23,Month-to-month,No internet service,1
+35,68.13,One year,Yes,0
+44,100.97,Month-to-month,Yes,1
+11,115.05,Month-to-month,Yes,1
+66,22.21,Month-to-month,No,1
+46,118.25,One year,Yes,0
+9,28.61,Month-to-month,No,1
+3,101.44,One year,No internet service,1
+26,48.03,Month-to-month,No,1
+48,33.22,Two year,No,0
+66,63.99,Two year,Yes,0
+70,84.4,One year,No,1
+28,58.1,Month-to-month,Yes,0
+26,25.46,Month-to-month,No,0
+25,79.95,Month-to-month,Yes,1
+12,110.24,Month-to-month,No,1
+5,58.32,One year,No,0
+48,41.63,One year,No internet service,0
+37,64.26,Two year,Yes,0
+44,24.84,Month-to-month,No,1
+15,102.05,One year,Yes,0
+43,102.63,Month-to-month,No,1
+48,78.8,One year,No internet service,0
+70,55.31,Month-to-month,No,1
+46,99.98,Month-to-month,No,1
+43,75.47,Month-to-month,No internet service,0
+21,102.59,One year,No,0
+23,83.15,Two year,No,0
+47,98.44,Month-to-month,No,0
+15,79.86,Month-to-month,No,1
+25,61.41,Month-to-month,Yes,1
+36,115.79,One year,No internet service,0
+51,74.11,Month-to-month,No,1
+15,80.51,One year,Yes,0
+68,42.05,Two year,No,0
+21,82.57,Two year,No,1
+13,77.16,Month-to-month,Yes,1
+19,38.48,Two year,No,0
+34,25.96,One year,No internet service,0
+68,80.44,Month-to-month,No internet service,0
+52,96.37,One year,No internet service,0
+27,72.34,Two year,No internet service,0
+29,42.68,Month-to-month,Yes,0
+28,86.65,Month-to-month,No,1
+35,28.01,Month-to-month,No internet service,0
+8,64.18,One year,No,1
+16,36.34,Month-to-month,No,0
+36,38.45,Two year,No,0
+30,40.23,One year,No,1
+18,58.67,One year,No internet service,0
+2,25.12,Month-to-month,No,1
+49,59.78,One year,No,0
+4,71.17,Month-to-month,No internet service,1
+7,68.33,Month-to-month,No,1
+39,58.28,One year,Yes,0
+13,103.91,Month-to-month,No,0
+31,34.53,One year,No internet service,0
+71,70.57,Month-to-month,No,0
+63,26.2,Month-to-month,No,1
+56,27.12,Month-to-month,No,1
+42,77.39,Two year,Yes,0
+61,76.6,One year,No internet service,0
+42,107.8,One year,No internet service,0
+56,75.79,Month-to-month,Yes,0
+36,115.98,Month-to-month,Yes,1
+68,24.87,Two year,No internet service,0
+7,29.8,Month-to-month,No internet service,1
+54,24.41,Month-to-month,No internet service,0
+1,38.53,One year,No internet service,0
+44,74.13,Month-to-month,No,1
+45,84.56,Two year,No,0
+47,24.56,One year,No,1
+13,114.6,Month-to-month,Yes,0
+22,104.22,Month-to-month,No,1
+21,49.66,Month-to-month,No,1
+9,27.72,Two year,No,0
+26,36.99,One year,No,0
+9,32.69,Month-to-month,No,1
+15,32.33,Month-to-month,Yes,1
+10,71.86,One year,Yes,0
+42,44.58,One year,Yes,0
+24,55.81,Month-to-month,Yes,0
+49,118.95,Month-to-month,No internet service,0
+26,88.43,Month-to-month,Yes,0
+37,114.9,One year,Yes,0
+68,34.26,Two year,No,1
+50,58.21,Month-to-month,No,1
+24,75.47,One year,Yes,0
+19,27.68,Month-to-month,No,1
+60,20.42,Month-to-month,No,1
+39,87.04,Month-to-month,Yes,0
+18,84.18,Two year,Yes,0
+19,61.08,Month-to-month,No internet service,1
+36,68.96,One year,No internet service,0
+55,61.54,Month-to-month,No,1
+69,22.4,Month-to-month,Yes,1
+47,53.54,Month-to-month,No,0
+49,37.71,One year,No,0
+33,29.84,Month-to-month,Yes,1
+21,115.67,One year,No,0
+22,79.94,Month-to-month,No,0
+48,92.87,Month-to-month,No,1
+37,51.54,Month-to-month,No,0
+15,59.31,Month-to-month,No internet service,1
+35,43.69,Month-to-month,No,1
+71,29.7,Month-to-month,No internet service,1
+32,37.9,One year,Yes,0
+11,99.75,One year,No internet service,0
+10,87.75,Month-to-month,Yes,1
+57,74.69,Month-to-month,Yes,1
+25,67.51,Month-to-month,No,1
+2,112.24,Month-to-month,No,1
+64,27.27,Month-to-month,No internet service,0
+35,48.06,Two year,No,1
+7,54.99,Month-to-month,Yes,1
+18,98.24,Month-to-month,No,0
+67,119.25,Month-to-month,No,0
+42,44.07,Month-to-month,No,1
+39,107.43,One year,No,0
+41,103.06,Month-to-month,No,0
+24,42.47,Month-to-month,No internet service,1
+60,59.93,One year,No internet service,0
+46,60.97,Month-to-month,Yes,0
+19,117.82,One year,No,1
+68,38.09,One year,No,0
+42,99.92,Month-to-month,No,1
+32,53.42,One year,No,1
+39,93.09,Month-to-month,No internet service,0
+36,62.0,One year,No,0
+36,77.84,Month-to-month,No internet service,0
+3,103.26,Month-to-month,No internet service,0
+8,100.42,One year,No internet service,0
+70,106.64,Two year,No internet service,0
+41,25.96,Two year,No,1
+68,89.21,One year,Yes,0
+13,34.0,Month-to-month,No,1
+49,61.58,Month-to-month,Yes,1
+60,74.86,Month-to-month,No,1
+2,60.27,Month-to-month,No,0
+60,71.96,Month-to-month,No,1
+5,119.65,Two year,No internet service,0
+44,33.52,Month-to-month,No internet service,1
+27,87.55,Month-to-month,Yes,1
+32,59.6,Month-to-month,No,1
+21,33.3,Two year,No,0
+8,35.87,One year,No,1
+50,114.93,One year,No,0
+67,107.96,Month-to-month,No,1
+44,110.7,Two year,No,0
+58,119.15,Month-to-month,No internet service,1
+3,40.83,Two year,No internet service,0
+70,55.54,One year,Yes,0
+2,86.92,Month-to-month,No,1
+44,68.38,Month-to-month,No,1
+2,61.84,One year,Yes,0
+35,55.78,Month-to-month,Yes,1
+30,79.38,Two year,No,0
+8,77.56,Month-to-month,No,1
+22,36.15,Month-to-month,Yes,1
+44,67.17,Month-to-month,No,1
+58,75.35,Month-to-month,No,0
+36,77.03,Month-to-month,Yes,0
+69,41.01,Month-to-month,Yes,1
+31,94.23,One year,No internet service,1
+47,22.52,Month-to-month,Yes,0
+55,55.48,Two year,No internet service,0
+62,98.02,One year,No,0
+30,76.39,Two year,No,0
+55,46.12,Month-to-month,Yes,1
+16,89.5,Month-to-month,Yes,0
+12,76.74,Month-to-month,Yes,0
+17,99.62,One year,Yes,0
+16,93.5,Two year,No,1
+12,81.01,Month-to-month,Yes,0
+8,68.82,Month-to-month,No,0
+3,33.32,Two year,No,0
+16,46.13,Month-to-month,Yes,0
+30,61.91,One year,Yes,0
+23,79.93,One year,Yes,0
+5,71.37,Two year,Yes,0
+65,48.82,Month-to-month,No,1
+30,20.65,Month-to-month,No,1
+21,69.62,One year,No,0
+70,48.56,Two year,No,1
+22,93.46,Month-to-month,No,1
+32,22.39,Month-to-month,No,0
+33,78.48,One year,No,0
+16,114.15,Two year,Yes,0
+38,37.44,Two year,Yes,0
+14,67.16,Two year,No,1
+36,29.14,Month-to-month,No,0
+23,82.57,Month-to-month,No,0
+66,75.05,One year,No,0
+2,60.74,Two year,No,1
+65,72.14,Month-to-month,No,1
+67,109.66,Month-to-month,No,0
+52,39.63,One year,No,0
+62,22.26,Month-to-month,No,1
+23,106.17,Month-to-month,No,1
+26,77.71,One year,No,0
+68,109.07,One year,No internet service,0
+55,79.69,One year,No,1
+6,101.02,Month-to-month,No,1
+35,62.97,One year,No,1
+22,94.99,One year,No,1
+43,111.3,One year,Yes,0
+15,77.21,One year,No internet service,0
+60,38.08,Month-to-month,Yes,0
+12,46.88,Month-to-month,No,0
+49,39.86,Month-to-month,No,1
+42,44.69,Month-to-month,No internet service,0
+38,50.64,One year,Yes,0
+45,75.51,Two year,No,0
+35,78.8,One year,No,0
+30,62.65,One year,No,0
+30,81.54,Month-to-month,Yes,1
+6,28.16,Month-to-month,No,1
+67,28.78,Month-to-month,No,1
+7,37.18,Month-to-month,Yes,1
+52,71.81,Month-to-month,No,0
+14,41.4,One year,No,0
+15,48.33,Two year,No,1
+21,60.03,Month-to-month,No internet service,0
+35,101.19,Month-to-month,No,1
+66,21.39,One year,No internet service,0
+2,84.94,Month-to-month,No internet service,1
+35,86.89,Two year,Yes,0
+20,99.87,One year,Yes,0
+10,113.28,Two year,No,1
+25,22.01,Month-to-month,No,1
+66,35.38,One year,No,1
+25,108.62,Month-to-month,No,1
+54,65.85,One year,No,1
+33,76.46,Month-to-month,No,1
+36,86.3,Month-to-month,Yes,0
+14,87.91,One year,No internet service,0
+65,113.17,One year,No,0
+54,119.69,Two year,No internet service,0
+52,92.02,One year,Yes,0
+3,48.72,One year,No internet service,0
+41,107.98,Month-to-month,Yes,1
+6,24.92,One year,Yes,0
+25,43.11,One year,Yes,0
+13,109.74,Two year,No,0
+8,45.62,Two year,No internet service,0
+21,42.07,Month-to-month,No,1
+68,33.81,Two year,No internet service,0
+25,105.91,Month-to-month,No,0
+68,70.01,Month-to-month,No,1
+45,87.49,One year,No internet service,0
+60,43.91,Month-to-month,Yes,1
+12,95.8,One year,No,0
+32,96.0,Month-to-month,No internet service,1
+13,51.26,Month-to-month,No internet service,1
+31,61.07,One year,No internet service,0
+20,40.97,One year,No internet service,0
+18,117.66,Two year,Yes,1
+60,84.56,One year,No internet service,0
+63,113.45,One year,No,0
+6,50.34,Month-to-month,No internet service,1
+32,98.19,Month-to-month,No,1
+43,96.59,Month-to-month,No,0
+2,89.17,One year,No,1
+60,116.56,One year,No,0
+23,59.36,Month-to-month,Yes,1
+31,33.07,One year,No internet service,0
+5,87.17,One year,No internet service,0
+34,92.93,Month-to-month,Yes,0
+10,77.51,Month-to-month,No,1
+2,40.68,Two year,No,0
+11,70.45,One year,No,1
+50,51.22,Two year,Yes,0
+31,62.75,Month-to-month,No internet service,0
+56,84.52,Two year,No,0
+9,94.52,Month-to-month,No,1
+21,43.22,Month-to-month,No,1
+28,60.53,Two year,Yes,0
+62,46.92,Month-to-month,No,0
+7,39.86,One year,Yes,0
+16,98.34,Month-to-month,Yes,0
+4,110.93,One year,No,1
+4,57.02,Two year,No internet service,0
+40,95.13,Month-to-month,No,1
+17,109.7,One year,Yes,0
+52,104.61,Month-to-month,No,1
+52,38.28,One year,No internet service,0
+36,115.63,Month-to-month,No,1
+38,57.67,Month-to-month,No internet service,0
+50,53.92,Month-to-month,No,1
+63,26.24,Month-to-month,No,0
+63,68.62,Two year,Yes,0
+62,30.9,Month-to-month,No,1
+7,44.85,Month-to-month,No,1
+27,51.69,Month-to-month,No,0
+14,100.88,Month-to-month,No internet service,0
+71,107.55,One year,No internet service,0
+5,50.25,Two year,Yes,0
+55,105.87,Month-to-month,Yes,0
+2,105.72,Two year,No,1
+62,96.47,One year,Yes,0
+21,34.67,Month-to-month,No,0
+21,89.03,One year,No internet service,0
+10,114.5,One year,No internet service,0
+58,88.25,One year,No,0
+39,53.16,Two year,No internet service,0
+5,70.06,Month-to-month,No,1
+65,84.57,Two year,Yes,0
+13,71.06,One year,No,1
+53,32.0,Month-to-month,No,1
+45,51.21,One year,No,0
+32,100.24,Month-to-month,Yes,0
+36,106.14,Two year,No,0
+60,33.73,One year,No,0
+11,115.24,Month-to-month,No internet service,0
+63,52.88,Month-to-month,No,0
+21,86.23,One year,No,0
+52,95.18,Month-to-month,No,1
+55,101.19,Month-to-month,Yes,1
+26,114.57,Month-to-month,No,1
+68,51.29,Month-to-month,No internet service,0
+34,105.85,Month-to-month,No,1
+52,33.17,Month-to-month,No internet service,0
+52,90.5,Month-to-month,Yes,1
+29,94.2,One year,Yes,0
+38,87.77,One year,No internet service,0
+42,45.23,Month-to-month,No internet service,1
+21,107.3,Month-to-month,No internet service,1
+42,36.89,One year,No,0
+13,25.36,Month-to-month,No internet service,0
+64,91.75,Month-to-month,No internet service,0
+17,67.55,Month-to-month,No internet service,0
+9,104.91,Two year,No,1
+41,58.34,One year,No,0
+1,36.83,One year,No internet service,1
+2,103.64,One year,No,1
+60,74.89,One year,No,0
+48,38.92,Month-to-month,No,1
+29,92.04,One year,No,0
+10,71.11,Month-to-month,No,1
+58,80.43,One year,Yes,0
+60,66.09,One year,No internet service,0
+21,102.87,One year,No,0
+28,102.96,Month-to-month,No,1
+34,90.94,Month-to-month,Yes,1
+8,30.54,One year,Yes,0
+59,103.89,One year,Yes,0
+49,87.1,Two year,No,1
+17,89.7,Month-to-month,Yes,1
+60,56.3,One year,No internet service,0
+45,107.93,One year,Yes,0
+69,92.54,Two year,Yes,0
+32,31.26,One year,Yes,0
+44,60.78,One year,Yes,0
+65,108.64,One year,No,0
+8,24.72,One year,No internet service,0
+43,116.14,Two year,No,1
+1,87.92,Month-to-month,Yes,1
+51,83.14,Month-to-month,Yes,0
+24,47.06,Two year,No,1
+24,44.88,One year,No internet service,0
+17,114.21,One year,Yes,0
+5,49.83,Month-to-month,No,1
+20,97.55,Month-to-month,No,0
+21,59.31,One year,Yes,0
+58,33.93,One year,No,0
+31,21.07,Month-to-month,Yes,1
+11,74.43,Month-to-month,No,1
+52,117.58,Two year,Yes,0
+15,56.91,Month-to-month,No,1
+7,55.72,Two year,Yes,0
+28,54.41,Month-to-month,No internet service,1
+51,72.05,One year,Yes,0
+58,64.07,Two year,No internet service,0
+5,107.99,One year,No internet service,0
+5,70.55,Month-to-month,No internet service,0
+8,70.78,One year,No,0
+64,33.84,Month-to-month,No,1
+10,118.27,Month-to-month,No,1
+38,45.0,Two year,Yes,0
+8,27.34,One year,No,1
+25,86.31,One year,Yes,0
+66,79.54,Month-to-month,No internet service,0
+50,61.51,Month-to-month,Yes,0
+67,62.22,Month-to-month,No,1
+49,98.51,One year,No,0
+36,39.57,One year,No,0
+68,102.03,One year,No,1
+41,84.87,Two year,Yes,0
+62,61.9,Month-to-month,No,1
+10,65.8,Month-to-month,Yes,1
+21,45.66,Month-to-month,No internet service,1
+36,95.21,Month-to-month,No,1
+12,71.29,Month-to-month,No internet service,0
+2,52.09,Two year,Yes,0
+13,79.61,Month-to-month,Yes,0
+53,119.57,Two year,Yes,0
+32,63.53,Month-to-month,Yes,0
+16,112.07,Two year,Yes,0
+32,54.5,One year,No,0
+32,25.47,Two year,Yes,0
+11,40.42,Month-to-month,No,1
+10,61.87,One year,No internet service,0
+15,41.96,Two year,No,1
+17,20.02,Month-to-month,No,0
+40,111.5,Month-to-month,No,0
+18,104.39,Month-to-month,No,0
+55,94.23,Two year,Yes,0
+25,36.78,One year,No,0
+59,32.04,One year,No,0
+22,26.76,Month-to-month,No internet service,0
+30,92.4,Month-to-month,No,0
+44,112.88,Two year,No,1
+32,63.05,Month-to-month,No,0
+51,31.91,One year,Yes,0
+46,71.24,Two year,No,1
+21,54.88,Month-to-month,No,0
+32,57.48,One year,Yes,0
+39,82.13,Month-to-month,Yes,1
+12,91.87,One year,Yes,0
+47,31.06,Month-to-month,No,1
+18,23.56,One year,Yes,0
+21,119.43,Month-to-month,No,1
+13,43.27,Month-to-month,No,1
+21,25.38,One year,No,0
+8,38.99,Month-to-month,No internet service,0
+46,23.9,One year,No internet service,0
+7,59.18,Month-to-month,No,1
+23,100.24,One year,Yes,0
+22,54.12,Month-to-month,No,1
+22,64.42,One year,No,0
+29,87.56,Month-to-month,No,1
+13,70.89,Month-to-month,No,1
+2,106.14,Month-to-month,Yes,1
+29,106.6,One year,No,0
+52,20.99,Month-to-month,Yes,0
+27,97.8,Two year,No,1
+50,66.07,Two year,No,0
+23,118.88,Month-to-month,No,1
+44,68.32,One year,Yes,0
+22,118.69,Month-to-month,No,1
+43,95.46,Month-to-month,No,1
+37,44.86,One year,Yes,0
+61,73.84,One year,No,0
+56,119.21,One year,No,0
+3,105.75,Month-to-month,No,1
+63,29.74,Month-to-month,No,1
+19,90.64,Month-to-month,No,0
+23,54.56,One year,No,0
+29,20.7,One year,No,0
+30,60.35,One year,No,1
+39,43.48,Month-to-month,No,0
+25,101.89,Month-to-month,Yes,1
+8,53.73,Month-to-month,Yes,0
+58,102.75,Month-to-month,Yes,1
+16,20.06,Month-to-month,No,1
+1,50.78,Two year,No,1
+5,44.12,Two year,No,1
+3,43.36,One year,Yes,0
+65,26.82,Month-to-month,No internet service,1
+4,38.71,Month-to-month,No,1
+64,75.55,Two year,No internet service,0
+10,49.14,Month-to-month,No,1
+21,61.74,Two year,No,0
+46,57.69,Month-to-month,Yes,0
+27,107.59,Month-to-month,Yes,1
+66,110.53,Two year,Yes,0
+41,69.3,Month-to-month,No,0
+13,53.02,One year,No,0
+9,30.68,One year,No,0
+36,115.34,Month-to-month,No,1
+58,26.02,Month-to-month,No internet service,1
+54,49.77,One year,Yes,0
+12,49.81,One year,Yes,0
+14,52.04,Month-to-month,No,0
+34,36.43,Two year,No,1
+53,98.32,Month-to-month,No,1
+20,32.25,Month-to-month,No,0
+16,83.49,Month-to-month,Yes,1
+70,32.38,Month-to-month,No,0
+56,27.05,Month-to-month,No internet service,0
+58,110.94,Two year,Yes,1
+4,39.01,Month-to-month,No internet service,1
+4,102.13,Month-to-month,No internet service,1
+20,74.46,Month-to-month,Yes,0
+10,27.79,One year,Yes,0
+24,115.54,Two year,No,0
+26,44.7,Month-to-month,No,1
+37,105.96,Month-to-month,No,1
+54,36.88,Month-to-month,No,0
+21,105.39,Month-to-month,No,1
+38,21.32,Month-to-month,Yes,0
+46,71.18,Month-to-month,No internet service,0
+4,96.94,Month-to-month,No,1
+60,113.48,One year,No,0
+57,110.92,Month-to-month,No internet service,0
+45,101.96,Two year,No,0
+20,108.82,Two year,Yes,0
+17,39.92,One year,No,0
+71,48.42,Month-to-month,No,1
+4,48.9,Month-to-month,Yes,1
+14,57.71,Month-to-month,No internet service,1
+3,59.33,One year,Yes,0
+58,74.46,Month-to-month,No,1
+55,35.99,Two year,No,0
+4,89.12,Two year,Yes,0
+24,36.76,Month-to-month,No internet service,0
+34,51.03,One year,No internet service,0
+30,70.33,Month-to-month,No,1
+19,99.64,Month-to-month,Yes,0
+31,93.95,Month-to-month,Yes,0
+60,84.55,Month-to-month,No,1
+60,35.58,Two year,Yes,0
+19,74.7,Month-to-month,No,1
+49,28.74,Month-to-month,No internet service,1
+63,57.74,One year,No,1
+22,61.35,One year,No internet service,0
+24,23.98,Month-to-month,No,1
+30,47.4,Two year,No,0
+58,115.56,One year,No internet service,0
+31,115.36,Month-to-month,No,1
+64,55.23,Month-to-month,No internet service,0
+19,24.31,Month-to-month,Yes,0
+48,37.91,Two year,Yes,0
+45,59.22,One year,No internet service,0
+55,114.78,Two year,No,0
+55,34.12,Month-to-month,No internet service,0
+18,96.35,Month-to-month,No internet service,1
+63,30.87,Month-to-month,Yes,0
+47,118.13,Month-to-month,No,1
+57,58.16,One year,No,0
+45,97.52,One year,No,1
+33,54.26,Month-to-month,No,1
+17,82.77,Month-to-month,Yes,0
+70,39.2,Month-to-month,No,0
+4,34.6,Month-to-month,No,1
+20,113.81,Month-to-month,Yes,1
+47,111.76,Month-to-month,No internet service,1
+15,108.75,Month-to-month,No,1
+70,82.54,Month-to-month,No internet service,0
+47,100.83,Month-to-month,No,1
+9,26.9,Month-to-month,Yes,1
+16,53.48,One year,No,1
+69,51.37,Month-to-month,Yes,1
+61,83.56,Two year,No internet service,0
+10,55.6,Month-to-month,Yes,0
+50,34.85,Month-to-month,No,1
+3,79.65,Month-to-month,No,1
+70,101.44,Month-to-month,No,1
+51,58.21,Two year,Yes,0
+19,33.23,Month-to-month,No,1
+42,39.67,Two year,No,0
+35,43.75,Two year,Yes,0
+46,49.99,One year,No internet service,0
+26,84.28,One year,No,0
+69,80.09,One year,No,0
+64,89.61,Month-to-month,No,1
+37,56.25,One year,Yes,0
+49,102.4,Month-to-month,No internet service,1
+21,40.41,Month-to-month,No,1
+64,66.9,Month-to-month,Yes,0
+5,100.09,One year,No,0
+70,38.02,Two year,No,0
+4,30.99,Month-to-month,No,1
+39,108.37,Two year,No,1
+35,54.29,Month-to-month,Yes,1
+1,88.39,Month-to-month,Yes,1
+24,22.53,Month-to-month,No internet service,0
+57,89.0,Month-to-month,Yes,1
+70,51.61,Month-to-month,No internet service,1
+41,25.57,One year,Yes,0
+54,80.98,Two year,No internet service,0
+46,44.08,Month-to-month,No,0
+60,58.68,Month-to-month,No,1
+60,28.06,Two year,Yes,0
+57,34.72,One year,Yes,0
+31,49.8,Month-to-month,Yes,0
+24,28.98,Month-to-month,Yes,1
+36,111.08,Two year,No,0
+30,20.6,One year,No,0
+24,68.39,Month-to-month,No,0
+30,32.32,Month-to-month,No,0
+7,50.77,Two year,No,1
+35,112.61,Month-to-month,No,1
+55,36.17,Two year,No,0
+14,116.58,Month-to-month,No,0
+10,40.58,One year,No,0
+16,94.16,Month-to-month,No internet service,1
+54,74.67,Month-to-month,Yes,0
+70,108.45,Two year,Yes,0
+44,75.4,Month-to-month,No,1
+45,73.46,One year,Yes,0
+56,39.55,Month-to-month,No internet service,1
+57,36.62,Month-to-month,No internet service,0
+21,111.65,Month-to-month,Yes,1
+68,52.78,One year,Yes,0
+50,57.21,Month-to-month,No,0
+33,95.98,Month-to-month,No,0
+7,53.88,Month-to-month,Yes,1
+70,115.21,One year,No,0
+15,93.79,One year,No,0
+32,79.74,Month-to-month,No,1
+20,108.09,Month-to-month,Yes,0
+15,24.96,Two year,No,0
+48,45.71,Month-to-month,Yes,0
+71,66.5,Two year,No internet service,0
+21,42.7,Two year,No,0
+42,94.39,One year,No,1
+26,111.92,Month-to-month,No internet service,1
+14,62.38,Two year,No internet service,0
+57,54.21,One year,No,1
+37,116.16,One year,Yes,0
+58,64.49,Month-to-month,No,0
+21,68.9,Month-to-month,No,0
+69,55.16,Month-to-month,Yes,0
+3,110.95,One year,No internet service,1
+37,76.9,One year,Yes,0
+49,96.22,Month-to-month,Yes,0
+19,101.18,Month-to-month,Yes,1
+12,54.18,Month-to-month,No,1
+61,63.37,One year,No,0
+41,104.85,Two year,No,0
+33,56.33,Month-to-month,No,1
+50,99.39,Month-to-month,No,1
+68,114.1,Month-to-month,No,0
+71,82.32,One year,Yes,0
+33,94.16,One year,No internet service,0
+24,100.51,Two year,Yes,0
+61,104.5,Month-to-month,No internet service,1
+61,59.51,Two year,Yes,0
+28,25.13,Month-to-month,No,0
+58,60.19,One year,Yes,0
+43,87.38,Month-to-month,Yes,1
+41,65.04,Two year,No internet service,0
+39,94.9,One year,No internet service,0
+49,55.7,One year,No,0
+17,83.47,Two year,No,0
+70,38.64,Month-to-month,No,0
+70,94.94,Month-to-month,No internet service,0
+65,74.57,Two year,No,0
+5,40.41,Month-to-month,No,1
+2,49.19,Month-to-month,No,0
+22,94.86,Month-to-month,No,1
+57,68.26,One year,No internet service,0
+66,41.6,Month-to-month,Yes,1
+16,116.73,Month-to-month,Yes,1
+51,91.51,Month-to-month,No,0
+39,115.71,Month-to-month,No,0
+40,62.71,Two year,Yes,0
+38,67.51,Two year,No,0
+60,109.8,One year,No internet service,0
+59,72.5,Month-to-month,Yes,1
+10,90.73,Two year,No,0
+64,45.22,One year,No,0
+63,64.67,Month-to-month,No,1
+49,32.34,Two year,No internet service,0
+64,40.6,One year,No,0
+32,20.09,One year,No,0
+7,23.93,One year,No,0
+21,117.73,Month-to-month,No,1
+20,44.24,Month-to-month,No,0
+26,86.33,One year,No internet service,0
+68,103.91,Month-to-month,No,1
+15,75.07,Month-to-month,Yes,1
+14,35.31,One year,Yes,0
+27,92.81,One year,Yes,0
+40,80.03,Month-to-month,Yes,0
+58,93.13,One year,No internet service,0
+28,96.97,Two year,No,0
+26,117.54,One year,No,0
+63,77.36,Month-to-month,No,1
+66,54.16,Month-to-month,No internet service,0
+25,84.85,Month-to-month,No,1
+3,26.84,Month-to-month,No internet service,0
+44,109.74,Month-to-month,No,1
+42,31.94,Month-to-month,No internet service,1
+6,52.78,Month-to-month,No,1
+39,101.57,Two year,Yes,0
+52,79.73,Month-to-month,No,0
+23,59.36,One year,No,0
+50,67.34,One year,Yes,0
+43,105.45,Month-to-month,No,1
+19,54.0,Two year,No,0
+69,106.96,One year,Yes,0
+51,28.81,Month-to-month,No internet service,1
+11,97.68,One year,No,1
+12,104.75,Month-to-month,No internet service,1
+8,38.18,One year,No,1
+24,63.03,Month-to-month,No,0
+41,36.55,Two year,No,1
+36,90.66,Month-to-month,No,0
+55,73.53,One year,No internet service,0
+9,83.53,Month-to-month,Yes,1
+47,39.65,One year,No internet service,0
+15,41.17,One year,No internet service,0
+48,24.15,Month-to-month,No,0
+42,52.21,One year,No internet service,0
+60,75.97,Month-to-month,No,0
+70,105.79,Two year,No internet service,0
+12,86.69,Month-to-month,No,0
+2,63.54,Two year,Yes,0
+7,115.31,Two year,No internet service,0
+3,91.92,Month-to-month,No,1
+3,113.02,Month-to-month,No,1
+27,72.76,Month-to-month,No,1
+40,45.89,Two year,Yes,0
+33,25.28,Month-to-month,No,1
+1,92.61,One year,No internet service,0
+8,32.13,Two year,Yes,0
+32,50.28,Month-to-month,Yes,0
+48,73.25,One year,Yes,0
+4,76.44,Month-to-month,No,1
+70,80.06,Month-to-month,No,1
+19,36.63,One year,No,0
+32,57.97,Month-to-month,No internet service,1
+9,81.72,Month-to-month,No,1
+12,116.98,Two year,Yes,0
+11,92.76,Month-to-month,No internet service,1
+46,112.26,Two year,No,0
+16,96.22,Two year,No,0
+1,79.17,Month-to-month,No,1
+63,39.2,Month-to-month,No internet service,1
+21,86.67,One year,No,0
+30,82.34,Month-to-month,No,1
+13,80.25,Month-to-month,No,1
+34,68.98,One year,Yes,0
+4,72.87,Month-to-month,No,1
+28,53.44,Two year,No,1
+59,71.93,Month-to-month,Yes,0
+27,39.76,Month-to-month,Yes,1
+69,100.52,Month-to-month,Yes,0
+25,38.58,Two year,No,0
+3,28.5,One year,No internet service,0
+68,63.62,Two year,No internet service,0
+25,85.83,Month-to-month,No,0
+20,63.77,Month-to-month,No,1
+34,47.68,Month-to-month,No internet service,1
+26,75.82,Month-to-month,Yes,0
+5,54.7,One year,No,1
+61,113.29,One year,No,1
+9,112.26,Month-to-month,Yes,0
+50,70.24,Two year,No internet service,0
+6,52.79,Month-to-month,No internet service,1
+60,93.71,Two year,Yes,0
+44,23.67,Month-to-month,Yes,1
+11,67.48,Month-to-month,Yes,0
+66,53.63,Month-to-month,No,1
+47,112.05,Month-to-month,No,0
+3,21.2,One year,No,0
+30,75.28,Month-to-month,Yes,0
+21,94.07,Month-to-month,No internet service,0
+28,68.5,One year,No,0
+62,28.54,One year,Yes,0
+33,117.25,Two year,No,0
+35,71.8,Month-to-month,No,0
+52,81.42,One year,No,0
+34,43.66,One year,Yes,0
+41,68.35,Month-to-month,Yes,0
+51,62.91,Month-to-month,No internet service,0
+47,27.49,Month-to-month,No internet service,0
+58,30.62,Month-to-month,No,0
+57,103.75,Month-to-month,No,0
+23,43.98,Month-to-month,No,1
+48,39.5,One year,No,0
+22,70.49,One year,No,0
+17,96.87,Two year,No internet service,0
+69,26.19,One year,No,0
+11,77.68,Month-to-month,No,1
+15,31.92,Two year,No,0
+35,23.65,Two year,No internet service,0
+33,25.27,Month-to-month,No,1
+16,103.42,One year,Yes,0
+34,31.8,Two year,No,1
+66,24.52,One year,No,0
+40,63.79,Two year,No,0
+28,104.4,Month-to-month,No,1
+47,46.24,Month-to-month,No internet service,1
+39,62.17,Month-to-month,No,0
+70,23.99,One year,No internet service,0
+20,64.91,Two year,Yes,0
+1,77.76,Two year,No internet service,1
+63,77.09,Month-to-month,No,1
+67,53.24,Month-to-month,No,1
+4,51.55,Two year,No,1
+58,30.66,One year,Yes,0
+25,56.68,Month-to-month,No,1
+47,29.95,Month-to-month,No,1
+38,96.66,One year,Yes,0
+15,116.63,One year,No,0
+63,117.01,Month-to-month,No,0
+21,106.51,Month-to-month,Yes,1
+57,80.08,Two year,Yes,0
+53,90.09,One year,No,0
+46,48.52,Month-to-month,No,1
+14,83.08,Month-to-month,No internet service,0
+17,65.56,One year,No internet service,0
+39,68.2,Month-to-month,No,1
+9,95.78,Month-to-month,No,1
+6,48.19,One year,No,0
+23,51.8,Month-to-month,No,0
+59,112.46,One year,Yes,0
+46,25.62,Month-to-month,No,0
+38,68.56,One year,No,0
+14,111.28,Month-to-month,Yes,1
+62,81.04,Month-to-month,No,0
+35,74.64,Month-to-month,No internet service,1
+19,44.97,Two year,No,0
+30,54.33,Two year,No,0
+25,105.2,Month-to-month,No internet service,0
+40,75.92,One year,No,0
+14,71.47,One year,Yes,0
+26,29.96,Two year,No,0
+22,21.6,Month-to-month,No,1
+48,116.37,One year,No,1
+51,57.7,Month-to-month,Yes,0
+3,80.32,Month-to-month,No,1
+42,27.97,Two year,No internet service,0
+19,88.31,One year,No,0
+28,113.26,Month-to-month,No internet service,1
+45,77.57,Month-to-month,No,1
+71,32.61,One year,No internet service,0
+63,78.17,One year,Yes,0
+19,96.63,Month-to-month,No,1
+47,60.64,Two year,Yes,0
+14,107.98,Month-to-month,No,1
+38,84.87,Month-to-month,No,1
+53,109.92,Two year,No,0
+61,82.35,Month-to-month,No internet service,0
+36,33.13,Month-to-month,No internet service,0
+40,50.97,One year,Yes,0
+30,40.18,Two year,No,1
+9,110.88,Month-to-month,No,1
+64,96.04,Two year,No,0
+33,87.64,One year,No internet service,0
+52,50.1,Month-to-month,No,0
+14,38.4,One year,No internet service,0
+53,95.65,Month-to-month,Yes,1
+59,67.42,Month-to-month,No,0
+41,42.58,One year,No,0
+68,81.66,Two year,Yes,0
+68,24.03,Month-to-month,No,1
+8,52.62,Month-to-month,No internet service,0
+2,66.86,Month-to-month,No,1
+41,34.8,Month-to-month,No,1
+55,118.47,Month-to-month,No,1
+16,40.91,Month-to-month,Yes,0
+62,33.04,One year,Yes,0
+48,40.35,Month-to-month,No,1
+30,96.91,Month-to-month,Yes,0
+12,62.55,Two year,No internet service,0
+35,76.54,Two year,No,0
+11,22.1,Month-to-month,No internet service,1
+64,23.44,Month-to-month,No,0
+50,64.58,One year,No internet service,0
+21,101.67,Month-to-month,No,0
+69,108.52,Month-to-month,No,1
+48,28.67,One year,No internet service,0
+20,73.84,Month-to-month,No,1
+67,111.32,Month-to-month,Yes,0
+44,58.8,Month-to-month,No,1
+33,102.96,Month-to-month,No internet service,0
+61,33.37,Month-to-month,No,0
+9,113.54,Two year,No,1
+68,95.14,Month-to-month,No,1
+35,114.13,Month-to-month,No internet service,0
+65,87.66,Month-to-month,Yes,0
+8,56.34,Two year,No,1
+45,113.82,One year,Yes,0
+47,47.56,Month-to-month,No,0
+40,53.22,Two year,No,0
+54,90.08,Month-to-month,Yes,0
+46,96.53,Month-to-month,Yes,0
+47,112.94,Month-to-month,No,0
+15,40.48,Month-to-month,Yes,0
+19,99.8,Month-to-month,Yes,0
+26,93.85,One year,No internet service,0
+52,26.38,Month-to-month,No,0
+22,58.72,One year,No,0
+21,48.28,Month-to-month,No internet service,0
+51,50.45,Month-to-month,Yes,0
+38,118.29,Month-to-month,No,0
+20,84.28,Two year,No,1
+29,91.77,Month-to-month,No,0
+51,117.66,One year,No internet service,0
+4,57.72,Month-to-month,No internet service,1
+55,100.18,Month-to-month,No,1
+71,63.45,Month-to-month,Yes,1
+28,106.95,Month-to-month,Yes,1
+4,38.07,Month-to-month,No,1
+22,114.77,Month-to-month,Yes,0
+45,41.88,One year,No,1
+67,52.62,Month-to-month,No,1
+66,95.62,One year,Yes,0
+34,59.38,Month-to-month,No internet service,0
+55,80.82,One year,Yes,0
+1,64.46,One year,No,0
+38,94.24,Month-to-month,No,1
+6,42.83,Month-to-month,No,1
+25,25.85,One year,No,0
+17,49.99,Two year,Yes,0
+61,67.43,Month-to-month,No,0
+12,36.8,Month-to-month,No,1
+6,55.48,Two year,No internet service,0
+27,60.0,Month-to-month,No,1
+8,25.74,One year,No,1
+65,78.33,Month-to-month,No,1
+57,108.43,Month-to-month,No internet service,0
+40,35.17,One year,Yes,0
+14,79.78,One year,No,0
+35,86.47,Month-to-month,No,1
+48,61.93,Month-to-month,No,0
+56,90.11,One year,Yes,0
+49,61.07,One year,No,1
+13,70.46,Month-to-month,Yes,1
+61,20.74,One year,No,1
+49,89.17,One year,No,1
+46,86.13,One year,No internet service,0
+62,23.84,One year,No,0
+8,56.83,Month-to-month,Yes,1
+43,117.9,One year,Yes,0
+20,62.07,One year,No internet service,0
+39,70.19,Month-to-month,Yes,1
+49,110.99,Month-to-month,No,1
+64,91.73,Month-to-month,Yes,1
+62,78.21,One year,No,0
+54,99.78,Month-to-month,No,1
+9,106.44,One year,No,0
+37,65.69,Two year,No,0
+49,67.51,One year,No internet service,0
+41,58.61,Two year,No,0
+17,116.67,Two year,No,1
+21,89.72,Month-to-month,No internet service,0
+51,28.32,One year,No internet service,0
+59,106.3,Month-to-month,No,0
+39,68.06,Two year,No internet service,0
+55,26.88,Month-to-month,Yes,0
+41,74.97,Two year,No,1
+39,61.72,One year,No internet service,0
+13,107.77,One year,Yes,0
+64,40.4,Month-to-month,Yes,0
+11,102.65,Month-to-month,No,1
+19,75.77,One year,No,0
+11,25.46,Month-to-month,No,1
+46,117.18,Two year,No,1
+45,71.26,Month-to-month,No internet service,0
+1,49.09,One year,No,1
+40,66.94,Month-to-month,Yes,0
+19,105.79,One year,No internet service,0
+61,50.49,One year,Yes,0
+12,39.27,Month-to-month,Yes,0
+61,32.91,Month-to-month,Yes,0
+33,49.79,Month-to-month,No,1
+45,98.0,One year,Yes,0
+69,67.16,One year,Yes,0
+8,42.75,One year,No,0
+25,36.62,One year,Yes,0
+46,53.27,Month-to-month,No,1
+30,113.99,Month-to-month,No internet service,1
+47,54.3,Month-to-month,No,1
+49,118.81,Month-to-month,Yes,1
+47,68.52,Two year,Yes,0
+18,37.92,Two year,No internet service,0
+66,109.11,Month-to-month,Yes,1
+68,66.04,One year,No internet service,0
+33,90.97,Two year,Yes,0
+36,118.37,Month-to-month,No internet service,0
+19,25.02,Month-to-month,No,0
+28,29.67,Month-to-month,No,0
+40,92.05,One year,No,0
+15,48.18,Two year,No,0
+41,38.43,One year,No,0
+39,23.94,Month-to-month,No,1
+2,22.18,Month-to-month,No,1
+63,97.45,One year,Yes,0
+29,33.44,Two year,Yes,0
+66,66.77,One year,No,1
+51,80.59,One year,Yes,0
+10,62.84,Month-to-month,No,1
+14,22.71,Two year,Yes,0
+51,98.35,One year,No,0
+39,21.05,Month-to-month,Yes,1
+28,96.19,One year,No,0
+3,109.33,Month-to-month,Yes,1
+70,63.28,Month-to-month,Yes,0
+27,73.55,Month-to-month,Yes,1
+2,67.7,Month-to-month,No internet service,1
+38,58.92,Month-to-month,Yes,0
+3,108.74,Month-to-month,No,1
+16,109.39,One year,Yes,0
+40,53.58,Month-to-month,Yes,0
+2,81.51,Month-to-month,No,1
+41,112.69,Month-to-month,No,1
+12,116.21,One year,No internet service,0
+35,70.9,Month-to-month,No internet service,1
+65,65.28,Month-to-month,No,0
+55,47.87,Two year,No,0
+45,115.89,One year,No,0
+62,34.28,Two year,No,1
+49,77.98,Month-to-month,No internet service,0
+25,48.26,Month-to-month,No,1
+23,47.9,One year,No,0
+24,60.5,Month-to-month,Yes,1
+38,119.88,Month-to-month,Yes,1
+28,25.5,Month-to-month,No internet service,1
+21,77.85,Two year,No,1
+54,28.26,Month-to-month,No,1
+18,35.45,Two year,Yes,0
+36,63.96,Two year,No internet service,0
+45,71.05,Month-to-month,Yes,0
+53,45.88,One year,No internet service,0
+30,51.65,One year,Yes,0
+60,28.7,Two year,No internet service,0
+32,50.32,Month-to-month,No,1
+67,116.66,One year,Yes,0
+67,114.47,Month-to-month,No,0
+28,53.49,Two year,No,0
+44,77.09,Month-to-month,Yes,1
+41,110.96,Month-to-month,No internet service,0
+63,20.62,One year,No,0
+23,101.07,Two year,No,0
+48,114.84,One year,Yes,0
+32,29.13,Month-to-month,No,1
+57,36.14,Month-to-month,No internet service,1
+33,116.07,Two year,No,1
+24,73.75,One year,No internet service,0
+39,21.42,Two year,No internet service,0
+34,45.76,Month-to-month,Yes,0
+56,64.99,Month-to-month,Yes,0
+28,89.29,One year,No internet service,0
+37,93.32,Two year,No,0
+7,119.54,Month-to-month,Yes,1
+68,48.75,Two year,Yes,0
+37,73.82,One year,No,0
+56,73.33,Month-to-month,No,1
+65,60.56,Month-to-month,Yes,0
+65,36.92,Month-to-month,Yes,1
+47,117.75,One year,No internet service,0
+20,105.33,Month-to-month,No,0
+19,69.83,Month-to-month,No,0
+29,80.32,Two year,No,1
+60,42.73,Month-to-month,No,0
+18,74.38,Month-to-month,No,0
+35,89.5,Month-to-month,No,0
+43,71.52,One year,Yes,0
+11,119.03,One year,No,1
+49,81.13,Month-to-month,No,0
+38,57.1,One year,No internet service,0
+64,97.22,One year,No,1
+69,37.05,Month-to-month,No internet service,1
+8,58.45,Month-to-month,No internet service,0
+34,54.7,Month-to-month,Yes,1
+48,63.18,Month-to-month,No,0
+56,98.18,One year,No,0
+65,68.42,One year,No internet service,0
+31,99.4,Month-to-month,No,0
+4,77.65,Month-to-month,No,1
+50,54.21,Month-to-month,No,0
+69,101.0,One year,Yes,0
+30,43.83,Month-to-month,Yes,0
+59,42.44,One year,No,1
+67,70.45,Month-to-month,No,1
+45,46.08,One year,No,0
+4,20.91,Two year,No,0
+26,84.83,Month-to-month,Yes,1
+27,71.11,Month-to-month,No,0
+46,64.55,Two year,Yes,0
+64,116.7,Month-to-month,No internet service,1
+51,77.12,One year,No internet service,0
+50,106.34,Month-to-month,No,1
+6,33.95,One year,Yes,0
+59,76.92,Month-to-month,Yes,1
+15,106.8,Two year,No,0
+30,78.31,One year,No,0
+42,91.8,One year,No,0
+37,57.2,One year,Yes,0
+42,29.24,One year,No,1
+35,65.79,Month-to-month,No,1
+6,59.45,Two year,No,1
+68,106.71,Two year,No,0
+18,44.4,Month-to-month,Yes,0
+29,116.67,Two year,No,0
+59,115.81,One year,No internet service,0
+47,44.76,One year,No,0
+17,54.81,Month-to-month,No internet service,0
+22,109.56,Month-to-month,No,1
+68,116.66,Month-to-month,Yes,0
+69,64.34,Month-to-month,No,0
+37,52.1,One year,No,1
+49,72.61,Month-to-month,No,1
+13,88.78,Month-to-month,Yes,1
+34,47.35,Two year,No,0
+53,93.65,Month-to-month,Yes,1
+51,25.17,Month-to-month,Yes,0
+3,24.93,Month-to-month,No,1
+42,58.63,Month-to-month,No,0
+32,55.35,One year,No internet service,0
+51,51.56,One year,No,0
+46,69.1,One year,No,1
+21,52.07,Month-to-month,No,1
+44,39.23,One year,No,1
+11,50.95,Month-to-month,Yes,1
+68,117.49,Month-to-month,No internet service,1
+1,61.11,Month-to-month,No,1
+63,64.47,Month-to-month,No internet service,0
+24,77.65,Month-to-month,No,0
+13,118.33,Month-to-month,Yes,1
+11,44.16,Two year,No,0
+51,88.13,Month-to-month,Yes,1
+17,91.6,Month-to-month,No,1
+24,80.73,Month-to-month,Yes,1
+19,28.86,One year,No,1
+37,87.69,Month-to-month,No internet service,0
+8,26.41,Two year,No,1
+28,79.61,Two year,No internet service,0
+5,93.96,Month-to-month,No,1
+17,41.1,Month-to-month,No,0
+36,104.16,Month-to-month,No internet service,0
+19,23.04,One year,No internet service,0
+64,104.38,Month-to-month,No,1
+11,66.03,Month-to-month,Yes,1
+54,41.76,Month-to-month,No,1
+45,33.38,One year,Yes,0
+47,115.33,Month-to-month,No,0
+12,27.27,Month-to-month,No,1
+21,39.91,One year,No internet service,0
+11,54.78,One year,No internet service,1
+5,82.02,Two year,No,1
+56,74.48,Month-to-month,Yes,0
+20,32.56,One year,No internet service,0
+41,48.97,One year,Yes,0
+46,43.88,Month-to-month,No,1
+12,41.35,One year,Yes,0
+70,61.11,Month-to-month,No,0
+17,90.4,Two year,No internet service,0
+19,41.75,Month-to-month,Yes,0
+26,56.67,One year,No,0
+48,59.09,Month-to-month,No,1
+52,117.65,Two year,No internet service,0
+70,115.47,Month-to-month,No internet service,1
+55,100.01,Two year,Yes,1
+33,44.17,Two year,Yes,0
+62,26.8,Month-to-month,No,1
+23,51.69,Two year,No,0
+15,46.68,Two year,No,1
+27,70.59,Month-to-month,Yes,0
+64,97.77,Month-to-month,Yes,0
+51,105.83,One year,No,1
+53,104.49,Month-to-month,Yes,1
+51,55.97,Month-to-month,No internet service,0
+47,88.72,Month-to-month,Yes,1
+4,51.28,Month-to-month,Yes,0
+7,26.09,Month-to-month,No internet service,1
+35,90.16,Month-to-month,No,0
+48,20.98,Two year,No,0
+45,60.92,One year,Yes,0
+19,52.94,Month-to-month,No,0
+63,89.34,One year,No,1
+38,96.62,One year,No,0
+67,50.41,Two year,No internet service,0
+59,101.16,Month-to-month,No,1
+69,49.39,Month-to-month,No,1
+13,64.63,Two year,No,0
+47,92.7,Two year,No,0
+61,89.29,One year,Yes,0
+31,118.74,One year,No,0
+22,42.52,Month-to-month,No,1
+43,86.23,One year,No,1
+67,80.97,Month-to-month,No,1
+54,111.51,Month-to-month,No,1
+10,35.64,Two year,No internet service,1
+42,95.18,Month-to-month,Yes,1
+64,76.83,Month-to-month,No,1
+21,47.47,Two year,No,0
+66,67.44,Month-to-month,No,0
+41,53.38,Two year,No,0
+24,77.93,Two year,Yes,0
+35,108.9,One year,No,0
+56,76.93,Month-to-month,Yes,0
+30,83.17,Month-to-month,No internet service,0
+57,71.87,Month-to-month,No,0
+47,25.12,Month-to-month,No internet service,1
+35,43.29,Month-to-month,No,1
+19,69.2,Two year,No,0
+8,51.02,Month-to-month,No,1
+26,38.18,One year,No internet service,0
+71,70.41,Month-to-month,No internet service,1
+30,52.28,One year,Yes,0
+7,45.81,Two year,No,1
+67,66.4,Month-to-month,No,0
+65,33.33,Month-to-month,Yes,1
+36,112.77,One year,No,1
+25,106.77,One year,No internet service,0
+37,90.76,One year,No,0
+1,30.62,Month-to-month,No,1
+15,97.59,Month-to-month,No,1
+37,100.8,Two year,No,0
+13,96.78,Two year,Yes,0
+8,31.4,Month-to-month,No,0
+5,84.39,Two year,No internet service,0
+60,103.43,Month-to-month,No,0
+1,77.74,Month-to-month,Yes,0
+36,84.64,Month-to-month,Yes,1
+35,65.84,Month-to-month,Yes,0
+66,72.87,One year,No,0
+63,23.44,Month-to-month,No,1
+23,83.9,Month-to-month,Yes,0
+9,28.14,One year,No internet service,0
+34,63.5,One year,No,1
+46,49.27,One year,No,0
+4,74.54,Two year,No internet service,0
+30,33.34,Month-to-month,Yes,1
+3,89.16,One year,No internet service,0
+14,99.5,One year,Yes,0
+60,36.34,One year,No,0
+45,30.43,Month-to-month,No internet service,0
+34,34.55,Month-to-month,No internet service,1
+45,107.71,Two year,No,0
+61,72.82,Month-to-month,No,0
+16,66.73,Two year,No,0
+66,30.67,One year,No internet service,0
+40,84.96,One year,Yes,0
+17,106.8,Two year,No internet service,0
+34,102.82,One year,No,0
+16,82.61,Month-to-month,No,1
+60,27.53,One year,No,0
+66,31.24,Two year,No,0
+66,24.93,Month-to-month,No internet service,0
+13,45.75,Month-to-month,No,1
+56,33.57,Month-to-month,No internet service,1
+31,46.0,Two year,Yes,0
+34,58.51,Month-to-month,No,1
+39,114.3,One year,No internet service,0
+67,81.04,Month-to-month,No,0
+8,103.5,Month-to-month,No,1
+55,91.04,One year,No,0
+27,31.25,Month-to-month,No internet service,0
+53,93.59,One year,No internet service,0
+39,47.51,One year,Yes,0
+65,83.91,Two year,No internet service,0
+17,54.1,Month-to-month,No,0
+30,119.77,Two year,Yes,0
+53,46.36,One year,No internet service,0
+13,47.91,Two year,No,1
+21,113.07,Month-to-month,No internet service,0
+19,22.46,One year,Yes,0
+53,89.67,Two year,Yes,1
+19,92.53,Two year,No,1
+57,103.64,Month-to-month,Yes,1
+25,117.44,Month-to-month,No,1
+31,117.56,Month-to-month,Yes,0
+55,26.53,Month-to-month,No,0
+23,102.18,Month-to-month,Yes,1
+32,84.63,Month-to-month,Yes,1
+62,84.73,Two year,No,0
+10,32.83,Month-to-month,Yes,1
+54,85.02,One year,No,1
+52,118.25,Month-to-month,No internet service,1
+20,111.18,Month-to-month,No,1
+32,63.91,Month-to-month,No internet service,0
+14,23.99,Month-to-month,Yes,0
+50,56.23,One year,Yes,0
+28,102.64,Two year,No internet service,0
+53,90.15,Month-to-month,No,1
+24,65.93,Month-to-month,No,0
+22,25.51,Month-to-month,No,1
+30,62.69,Two year,No,1
+63,66.9,One year,Yes,0
+4,112.86,One year,No,1
+59,84.11,One year,No,0
+8,51.17,Two year,No,1
+12,72.53,Month-to-month,No internet service,1
+31,26.61,Month-to-month,No,0
+34,117.26,Two year,Yes,0
+49,56.01,One year,No internet service,0
+57,67.79,One year,No,1
+26,55.53,One year,No,1
+18,88.25,Month-to-month,Yes,1
+38,86.22,One year,Yes,0
+50,91.53,One year,No,1
+8,46.81,Month-to-month,No,1
+41,51.57,One year,No internet service,0
+6,32.53,Two year,No internet service,0
+69,85.55,Month-to-month,No internet service,0
+44,23.98,Month-to-month,No,0
+64,79.77,Month-to-month,No,0
+29,106.97,One year,No,1
+28,109.08,Month-to-month,Yes,1
+11,64.9,One year,Yes,0
+65,65.93,Two year,No,0
+19,27.7,Month-to-month,No internet service,0
+9,87.08,Two year,Yes,1
+27,102.13,Two year,Yes,0
+34,44.47,Month-to-month,No internet service,1
+44,62.13,Month-to-month,Yes,0
+68,103.88,Two year,No,1
+15,107.71,Two year,No,0
+51,44.32,Month-to-month,Yes,0
+13,75.06,Month-to-month,No internet service,1
+49,39.25,Month-to-month,Yes,0
+70,30.19,Two year,No,1
+56,111.11,Month-to-month,Yes,0
+51,102.05,One year,Yes,0
+37,96.0,Two year,Yes,0
+17,24.88,Month-to-month,Yes,0
+58,104.37,One year,Yes,0
+29,63.8,Month-to-month,No,1
+33,54.24,Two year,No,0
+60,74.65,Month-to-month,No,0
+55,29.14,One year,No,0
+10,95.66,One year,No internet service,1
+47,78.24,Month-to-month,No internet service,1
+23,38.66,Month-to-month,No,1
+21,38.82,Month-to-month,No internet service,1
+13,38.42,Month-to-month,No,0
+33,25.7,Two year,No,0
+24,78.78,Two year,No,0
+11,104.03,Month-to-month,No,1
+17,21.75,One year,No,0
+68,24.9,One year,No,0
+47,77.28,Two year,No internet service,0
+25,101.95,Month-to-month,No internet service,1
+21,52.67,Month-to-month,No,0
+12,54.96,Month-to-month,No,0
+37,79.63,One year,Yes,0
+42,47.42,Month-to-month,Yes,0
+17,22.66,Month-to-month,No,0
+48,93.52,Month-to-month,No,1
+28,82.56,One year,Yes,0
+41,78.08,Month-to-month,No internet service,0
+47,94.17,Month-to-month,No,1
+18,87.52,Month-to-month,No,1
+71,40.59,Month-to-month,Yes,0
+13,55.25,One year,Yes,0
+13,32.61,Month-to-month,No internet service,0
+31,32.99,Month-to-month,No,0
+2,87.62,One year,No internet service,1
+16,105.86,Month-to-month,No internet service,1
+9,116.27,Month-to-month,No,1
